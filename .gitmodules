@@ -1,0 +1,3 @@
+[submodule "Modules/Mercenaries"]
+	path = Modules/Mercenaries
+	url = git@github.com:PitchRE/Mercenaries.git
