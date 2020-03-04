@@ -1,0 +1,23 @@
+00:31:20 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 00:31:50 - New_Player has joined the game with ID: 982368 
+ 00:31:56 - New_Player has no account! 
+ 00:33:32 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 00:33:38 - New_Player has joined the game with ID: 982368 
+ 00:33:44 - New_Player did join the server & his data was loaded 
+ 00:34:24 -  <img=ico_headshot> New_Player 
+ 00:47:22 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 00:47:36 - New_Player has joined the game with ID: 982368 
+ 00:47:42 - New_Player has no account! 
+ 00:47:54 - New_Player has joined the game with ID: 982368 
+ 00:47:59 - New_Player did join the server & his data was loaded 
+ 00:53:00 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 00:53:18 - New_Player has joined the game with ID: 982368 
+ 00:53:23 - New_Player has no account! 
+ 00:55:04 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 00:55:08 - New_Player has joined the game with ID: 982368 
+ 00:55:14 - New_Player has no account! 
+ 00:55:14 - New_Player is kicked. 
+ 00:55:24 - New_Player has joined the game with ID: 982368 
+ 00:55:29 - New_Player did join the server & his data was loaded 
+ 00:56:12 -  <img=ico_headshot> New_Player 
+ 

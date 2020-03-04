@@ -1,0 +1,3 @@
+06:18:11 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 06:18:17 - New_Player has joined the game with ID: 982368 
+ 
