@@ -113,4 +113,32 @@
  12:08:04 - Swedish Musketeer <img=ico_crossbow> Polish Cavalryman 
  12:08:04 - New_Player <img=ico_spear> Polish Infantryman 
  12:08:06 -  <img=ico_headshot> New_Player 
+ 12:17:31 - Swedish Infantryman <img=ico_spear> Polish Musketeer 
+ 12:25:50 - Swedish Infantryman <img=ico_spear> Polish Musketeer 
+ 15:36:56 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 15:36:59 - `çğˆçğ¢Zûéğ¸çğQÉ{\û\ûçğQÉ{ ÷Ô÷ has joined the game with ID: 10049756 
+ 15:36:59 - *SPEC* [`çğˆçğ¢Zûéğ¸çğQÉ{\û\ûçğQÉ{ ÷Ô÷]  
+ 15:37:01 - @¦ÊäìÊä\ has joined the game with ID: 3278358 
+ 15:37:01 - *SPEC* [@¦ÊäìÊä\] ¶ 
+ 15:37:02 - ä\ has joined the game with ID: 12238848 
+ 15:37:02 - *SPEC* [ä\] R 
+ 15:37:03 - *SPEC* [ä\] g 
+ 15:37:03 - *SPEC* [ä\] k 
+ 15:37:51 - New_Player has joined the game with ID: 982368 and has administrator rights. 
+ 15:38:06 - New_Player has joined the game with ID: 982368 
+ 15:39:06 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 15:39:14 - New_Player has joined the game with ID: 982368 
+ 15:39:34 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 15:39:39 - New_Player has joined the game with ID: 982368 
+ 15:39:44 - New_Player did join the server & his data was loaded 
+ 15:39:54 -  <img=ico_headshot> New_Player 
+ 15:40:12 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 15:40:50 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 15:42:42 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 15:46:22 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 15:51:33 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 15:52:09 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 15:55:01 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 15:55:45 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 15:56:01 - SERVER has joined the game with ID: 0 and has administrator rights. 
  
