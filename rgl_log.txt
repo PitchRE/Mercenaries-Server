@@ -329,6 +329,9 @@ Starting new log file.
  Loading Resource  oim_basket_trenches 
  Loading Resource  prisonCart 
  Loading Resource  captain_coop_ico 
+ Loading Module Resource  men_at_arms 
+ Loading Module Resource  men_at_arms_lods 
+ Loading Module Resource  Rus_armour_pack 
  
 } //Processing Ini File Finished
  WARNING: UNABLE TO MAP GAME SCRIPT CODE:  game_check_party_sees_party 
@@ -339,4 +342,69 @@ Starting new log file.
  Loading party templates...
  http://127.0.0.1/checkplayer?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=3
  Hello 982368
+ DEBUG: Did give player 3 following troop: 1414
+ DEBUG: Give player 3 item 559
+ DEBUG: Give player 3 item 559
+ DEBUG: Give player 3 item 978
+ DEBUG: Give player 3 item 808
+ http://127.0.0.1/GiveEarnings?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=3&gold=1
+ http://127.0.0.1/GiveEXP?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=3&exp=1&kills=0&deaths=0
+ http://127.0.0.1/checkplayer?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=3
+ Hello 982368
+ DEBUG: Did give player 3 following troop: 1414
+ DEBUG: Give player 3 item 559
+ DEBUG: Give player 3 item 559
+ DEBUG: Give player 3 item 978
+ DEBUG: Give player 3 item 808
+ http://127.0.0.1/GiveEarnings?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=3&gold=1
+ http://127.0.0.1/GiveEXP?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=3&exp=1&kills=0&deaths=0
+ http://127.0.0.1/checkplayer?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=24
+ Hello 982368
+ DEBUG: Did give player 24 following troop: 1435
+ DEBUG: Give player 24 item 559
+ DEBUG: Give player 24 item 559
+ DEBUG: Give player 24 item 968
+ DEBUG: Give player 24 item 808
+ http://127.0.0.1/GiveEarnings?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=24&gold=1
+ http://127.0.0.1/GiveEXP?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=24&exp=1&kills=0&deaths=0
+ http://127.0.0.1/checkplayer?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=3
+ Hello 982368
+ DEBUG: Did give player 3 following troop: 1414
+ DEBUG: Give player 3 item 559
+ DEBUG: Give player 3 item 559
+ DEBUG: Give player 3 item 968
+ DEBUG: Give player 3 item 808
+ http://127.0.0.1/GiveEarnings?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=3&gold=1
+ http://127.0.0.1/GiveEXP?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=3&exp=1&kills=0&deaths=0
+ http://127.0.0.1/checkplayer?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=5
+ Hello 982368
+ DEBUG: Did give player 5 following troop: 1416
+ DEBUG: Give player 5 item 559
+ DEBUG: Give player 5 item 559
+ DEBUG: Give player 5 item 976
+ DEBUG: Give player 5 item 808
+ http://127.0.0.1/GiveEarnings?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=5&gold=1
+ http://127.0.0.1/GiveEXP?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=5&exp=1&kills=0&deaths=0
+ http://127.0.0.1/checkplayer?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=2
+ Hello 982368
+ DEBUG: Did give player 2 following troop: 1413
+ DEBUG: Give player 2 item 559
+ DEBUG: Give player 2 item 559
+ DEBUG: Give player 2 item 969
+ DEBUG: Give player 2 item 808
+ http://127.0.0.1/GiveEarnings?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=2&gold=1
+ http://127.0.0.1/GiveEXP?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=2&exp=1&kills=0&deaths=0
+ http://127.0.0.1/checkplayer?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=6
+ Hello 982368
+ DEBUG: Did give player 6 following troop: 1417
+ DEBUG: Give player 6 item 559
+ DEBUG: Give player 6 item 559
+ DEBUG: Give player 6 item 969
+ DEBUG: Give player 6 item 943
+ http://127.0.0.1/GiveEarnings?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=6&gold=1
+ http://127.0.0.1/GiveEXP?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=6&exp=1&kills=0&deaths=0
+ DEBUG: Give player 6 item 559
+ DEBUG: Give player 6 item 559
+ DEBUG: Give player 6 item 969
+ DEBUG: Give player 6 item 943
  

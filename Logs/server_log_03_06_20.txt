@@ -1,0 +1,116 @@
+10:39:00 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 10:46:45 - New_Player has joined the game with ID: 982368 
+ 10:46:50 - New_Player has no account! 
+ 10:46:50 - New_Player is kicked. 
+ 10:46:58 - New_Player has joined the game with ID: 982368 
+ 10:47:03 - New_Player did join the server & his data was loaded 
+ 10:47:52 -  <img=ico_headshot> New_Player 
+ 10:48:00 - New_Player has joined the game with ID: 982368 
+ 10:48:05 - New_Player did join the server & his data was loaded 
+ 10:49:57 -  <img=ico_headshot> New_Player 
+ 10:50:16 - New_Player has joined the game with ID: 982368 
+ 10:50:16 - New_Player has joined the game with ID: 982368 
+ 10:50:16 - New_Player has joined the game with ID: 982368 
+ 10:50:16 - New_Player has joined the game with ID: 982368 
+ 10:50:16 - New_Player has joined the game with ID: 982368 
+ 10:50:16 - New_Player has joined the game with ID: 982368 
+ 10:50:16 - New_Player has joined the game with ID: 982368 
+ 10:50:17 - New_Player has joined the game with ID: 982368 
+ 10:50:17 - New_Player has joined the game with ID: 982368 
+ 10:50:17 - New_Player has joined the game with ID: 982368 
+ 10:50:17 - New_Player has joined the game with ID: 982368 
+ 10:50:17 - New_Player has joined the game with ID: 982368 
+ 10:50:17 - New_Player has joined the game with ID: 982368 
+ 10:50:17 - New_Player has joined the game with ID: 982368 
+ 10:50:17 - New_Player has joined the game with ID: 982368 
+ 10:50:17 - New_Player has joined the game with ID: 982368 
+ 10:50:17 - New_Player has joined the game with ID: 982368 
+ 10:50:17 - New_Player has joined the game with ID: 982368 
+ 10:50:17 - New_Player has joined the game with ID: 982368 
+ 10:50:21 - New_Player has joined the game with ID: 982368 
+ 10:50:26 - New_Player did join the server & his data was loaded 
+ 10:51:52 - New_Player has joined the game with ID: 982368 
+ 10:51:58 - New_Player did join the server & his data was loaded 
+ 10:52:27 -  <img=ico_headshot> New_Player 
+ 10:52:34 - New_Player has joined the game with ID: 982368 
+ 10:52:40 - New_Player did join the server & his data was loaded 
+ 10:53:05 -  <img=ico_headshot> New_Player 
+ 10:53:12 - New_Player has joined the game with ID: 982368 
+ 10:53:17 - New_Player did join the server & his data was loaded 
+ 10:53:34 -  <img=ico_headshot> New_Player 
+ 10:53:42 - New_Player has joined the game with ID: 982368 
+ 10:53:47 - New_Player did join the server & his data was loaded 
+ 10:54:07 - New_Player started a poll to change bot counts to 10 and 10. 
+ 10:54:11 -  <img=ico_headshot> New_Player 
+ 10:54:19 - New_Player has joined the game with ID: 982368 and has administrator rights. 
+ 10:54:25 - New_Player did join the server & his data was loaded 
+ 10:55:03 - Swedish Infantryman <img=ico_spear> Tatar Horse Rifleman 
+ 10:55:04 - Tatar Horse Rifleman <img=ico_headshot> Swedish Cavalryman 
+ 10:55:20 - Tatar Infantryman <img=ico_headshot> Swedish Musketeer 
+ 10:55:20 - Swedish Infantryman <img=ico_spear> Tatar Horse Rifleman 
+ 10:55:21 - Tatar Horse Rifleman <img=ico_headshot> Swedish Musketeer 
+ 10:55:25 - Swedish Infantryman <img=ico_spear> Tatar Horse Rifleman 
+ 10:55:39 - Tatar Horse Rifleman <img=ico_headshot> Swedish Infantryman 
+ 10:55:41 - Tatar Infantryman <img=ico_headshot> Swedish Cavalryman 
+ 10:55:44 - Tatar Infantryman <img=ico_headshot> Swedish Cavalryman 
+ 10:55:46 - Swedish Musketeer <img=ico_crossbow> New_Player 
+ 10:55:50 - Tatar Infantryman <img=ico_headshot> Swedish Infantryman 
+ 10:58:07 - Tatar Infantryman <img=ico_headshot> Swedish Infantryman 
+ 11:02:42 - Swedish Musketeer <img=ico_headshot> Tatar Infantryman 
+ 11:04:21 - Tatar Infantryman <img=ico_headshot> Swedish Cavalryman 
+ 11:05:45 - Tatar Infantryman <img=ico_headshot> Swedish Musketeer 
+ 11:39:46 - Tatar Horse Rifleman <img=ico_swordone> Swedish Cavalryman 
+ 11:50:58 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 11:51:49 - New_Player has joined the game with ID: 982368 
+ 11:51:54 - New_Player did join the server & his data was loaded 
+ 11:52:12 -  <img=ico_headshot> New_Player 
+ 11:57:41 - New_Player has joined the game with ID: 982368 
+ 11:57:46 - New_Player did join the server & his data was loaded 
+ 11:58:54 -  <img=ico_headshot> New_Player 
+ 11:59:02 - New_Player has joined the game with ID: 982368 
+ 11:59:02 - New_Player has joined the game with ID: 982368 
+ 11:59:02 - New_Player has joined the game with ID: 982368 
+ 11:59:02 - New_Player has joined the game with ID: 982368 
+ 11:59:02 - New_Player has joined the game with ID: 982368 
+ 11:59:02 - New_Player has joined the game with ID: 982368 
+ 11:59:02 - New_Player has joined the game with ID: 982368 
+ 11:59:03 - New_Player has joined the game with ID: 982368 
+ 11:59:03 - New_Player has joined the game with ID: 982368 
+ 11:59:03 - New_Player has joined the game with ID: 982368 
+ 11:59:03 - New_Player has joined the game with ID: 982368 
+ 11:59:03 - New_Player has joined the game with ID: 982368 
+ 11:59:03 - New_Player has joined the game with ID: 982368 
+ 11:59:03 - New_Player has joined the game with ID: 982368 
+ 11:59:03 - New_Player has joined the game with ID: 982368 
+ 11:59:03 - New_Player has joined the game with ID: 982368 
+ 11:59:03 - New_Player has joined the game with ID: 982368 
+ 11:59:03 - New_Player has joined the game with ID: 982368 
+ 11:59:03 - New_Player has joined the game with ID: 982368 
+ 11:59:07 - New_Player has joined the game with ID: 982368 
+ 11:59:12 - New_Player did join the server & his data was loaded 
+ 12:03:13 -  <img=ico_headshot> New_Player 
+ 12:03:54 - New_Player has joined the game with ID: 982368 
+ 12:03:59 - New_Player did join the server & his data was loaded 
+ 12:04:16 -  <img=ico_headshot> New_Player 
+ 12:04:58 - New_Player has joined the game with ID: 982368 
+ 12:05:03 - New_Player did join the server & his data was loaded 
+ 12:05:35 -  <img=ico_headshot> New_Player 
+ 12:05:42 - New_Player has joined the game with ID: 982368 
+ 12:05:47 - New_Player did join the server & his data was loaded 
+ 12:06:36 -  <img=ico_headshot> New_Player 
+ 12:06:43 - New_Player has joined the game with ID: 982368 
+ 12:06:49 - New_Player did join the server & his data was loaded 
+ 12:06:56 - New_Player started a poll to change bot counts to 10 and 10. 
+ 12:07:01 -  <img=ico_headshot> New_Player 
+ 12:07:04 - New_Player got 1 gold this round 
+ 12:07:48 - Polish Cavalryman <img=ico_swordone> Swedish Infantryman 
+ 12:07:52 - Polish Infantryman <img=ico_spear> New_Player 
+ 12:07:53 - Swedish Infantryman <img=ico_spear> Polish Cavalryman 
+ 12:07:58 - New_Player <img=ico_spear> Polish Cavalryman 
+ 12:07:59 - Swedish Infantryman <img=ico_spear> Polish Cavalryman 
+ 12:08:01 - Swedish Musketeer <img=ico_headshot> Polish Cavalryman 
+ 12:08:03 - New_Player <img=ico_spear> Polish Infantryman 
+ 12:08:04 - Swedish Musketeer <img=ico_crossbow> Polish Cavalryman 
+ 12:08:04 - New_Player <img=ico_spear> Polish Infantryman 
+ 12:08:06 -  <img=ico_headshot> New_Player 
+ 

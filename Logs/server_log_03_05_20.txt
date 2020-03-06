@@ -1,0 +1,134 @@
+18:01:42 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 18:01:57 - New_Player has joined the game with ID: 982368 
+ 18:02:03 - New_Player has no account! 
+ 18:02:03 - New_Player is kicked. 
+ 18:02:11 - New_Player has joined the game with ID: 982368 
+ 18:02:16 - New_Player did join the server & his data was loaded 
+ 18:03:05 -  <img=ico_headshot> New_Player 
+ 18:04:55 - New_Player has joined the game with ID: 982368 
+ 18:05:01 - New_Player did join the server & his data was loaded 
+ 18:06:11 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 18:06:18 - New_Player has joined the game with ID: 982368 
+ 18:06:23 - New_Player did join the server & his data was loaded 
+ 18:06:33 - New_Player started a poll to change bot counts to 10 and 10. 
+ 18:06:36 -  <img=ico_headshot> New_Player 
+ 18:06:44 - New_Player has joined the game with ID: 982368 
+ 18:06:50 - New_Player did join the server & his data was loaded 
+ 18:07:27 - Polish Musketeer <img=ico_crossbow> New_Player 
+ 18:07:36 - Tatar Horse Rifleman <img=ico_bow> Polish Cavalryman 
+ 18:07:36 - Tatar Horseman <img=ico_spear> Polish Musketeer 
+ 18:07:38 - Polish Infantryman <img=ico_spear> Tatar Horse Rifleman 
+ 18:07:40 - New_Player <img=ico_swordone> Polish Musketeer 
+ 18:07:40 - Tatar Horse Rifleman <img=ico_bow> Polish Cavalryman 
+ 18:07:42 - Tatar Horseman <img=ico_spear> Polish Cavalryman 
+ 18:07:57 - Polish Musketeer <img=ico_swordone> Tatar Horseman 
+ 18:08:04 - New_Player started a poll to change bot counts to 1 and 0. 
+ 18:08:05 - Tatar Horseman <img=ico_spear> Polish Musketeer 
+ 18:08:11 - New_Player <img=ico_swordone> Polish Infantryman 
+ 18:08:23 - Tatar Infantryman <img=ico_swordone> Polish Musketeer 
+ 18:08:23 - Tatar Horseman <img=ico_spear> Polish Cavalryman 
+ 18:08:29 - Polish Musketeer <img=ico_crossbow> Tatar Infantryman 
+ 18:09:03 - Tatar Horseman <img=ico_spear> Polish Musketeer 
+ 18:09:06 - New_Player got 4 gold this round 
+ 18:09:47 - New_Player <img=ico_swordtwo> Polish Cavalryman 
+ 18:09:50 - New_Player got 7 gold this round 
+ 18:10:40 - Polish Infantryman <img=ico_spear> New_Player 
+ 18:10:43 - New_Player got 8 gold this round 
+ 18:11:47 - Polish Musketeer <img=ico_crossbow> New_Player 
+ 18:11:50 - New_Player got 9 gold this round 
+ 18:12:40 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 18:12:46 - New_Player has joined the game with ID: 982368 
+ 18:12:51 - New_Player did join the server & his data was loaded 
+ 18:12:58 - New_Player started a poll to change bot counts to 1 and 0. 
+ 18:13:00 -  <img=ico_headshot> New_Player 
+ 18:13:09 - New_Player has joined the game with ID: 982368 
+ 18:13:14 - New_Player did join the server & his data was loaded 
+ 18:13:55 - New_Player <img=ico_swordtwo> Polish Cavalryman 
+ 18:13:59 - New_Player got 3 gold this round 
+ 18:16:14 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 18:16:25 - New_Player has joined the game with ID: 982368 
+ 18:16:30 - New_Player did join the server & his data was loaded 
+ 18:16:36 - New_Player started a poll to change bot counts to 1 and 0. 
+ 18:16:38 -  <img=ico_headshot> New_Player 
+ 18:16:45 - New_Player has joined the game with ID: 982368 
+ 18:16:50 - New_Player did join the server & his data was loaded 
+ 18:17:38 - Tatar Infantryman <img=ico_swordone> New_Player 
+ 18:17:41 - New_Player got 1 gold this round 
+ 18:18:46 - New_Player <img=ico_swordtwo> Tatar Horseman 
+ 18:18:46 - New_Player got kicked because he is banned 
+ 18:18:49 - New_Player got 5 gold this round 
+ 18:19:57 - Tatar Horse Rifleman <img=ico_headshot> New_Player 
+ 18:20:03 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 18:20:14 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 18:20:22 - New_Player has joined the game with ID: 982368 and has administrator rights. 
+ 18:20:27 - New_Player did join the server & his data was loaded 
+ 18:20:39 -  <img=ico_headshot> New_Player 
+ 18:20:39 - New_Player got kicked because he is banned 
+ 18:20:42 - New_Player got 1 gold this round 
+ 18:21:32 - New_Player <img=ico_swordtwo> Russian Rifleman 
+ 18:21:35 - New_Player got 4 gold this round 
+ 18:22:07 - Russian Rifleman <img=ico_headshot> New_Player 
+ 18:22:07 - New_Player got kicked because he is banned 
+ 18:22:10 - New_Player got 5 gold this round 
+ 18:22:58 - Russian Horseman <img=ico_bow> New_Player 
+ 18:22:58 - New_Player got kicked because he is banned 
+ 18:23:01 - New_Player got 6 gold this round 
+ 18:23:55 - Russian Infantryman <img=ico_spear> New_Player 
+ 18:23:58 - New_Player got 7 gold this round 
+ 18:24:45 - Russian Infantryman <img=ico_spear> New_Player 
+ 18:24:45 - New_Player got kicked because he is banned 
+ 18:24:48 - New_Player got 8 gold this round 
+ 18:25:19 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 18:25:40 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 18:25:50 - New_Player has joined the game with ID: 982368 and has administrator rights. 
+ 18:25:55 - New_Player did join the server & his data was loaded 
+ 18:26:47 -  <img=ico_headshot> New_Player 
+ 18:26:47 - New_Player got kicked because he is banned 
+ 18:26:50 - New_Player got 1 gold this round 
+ 18:27:41 - Polish Infantryman <img=ico_spear> New_Player 
+ 18:27:44 - New_Player got 2 gold this round 
+ 18:28:14 - Polish Cavalryman <img=ico_headshot> New_Player 
+ 18:28:14 - New_Player got kicked because he is banned 
+ 18:28:17 - New_Player got 3 gold this round 
+ 18:29:01 - New_Player <img=ico_swordtwo> Polish Cavalryman 
+ 18:29:01 - New_Player got kicked because he is banned 
+ 18:29:04 - New_Player got 7 gold this round 
+ 18:29:25 -  <img=ico_headshot> New_Player 
+ 18:37:14 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 18:37:48 - New_Player has joined the game with ID: 982368 and has administrator rights. 
+ 18:37:54 - New_Player did join the server & his data was loaded 
+ 18:39:02 -  <img=ico_headshot> New_Player 
+ 18:39:05 - New_Player got 1 gold this round 
+ 18:39:35 - Russian Rifleman <img=ico_crossbow> New_Player 
+ 18:39:38 - New_Player got 2 gold this round 
+ 18:40:21 - New_Player <img=ico_swordtwo> Russian Rifleman 
+ 18:40:24 - New_Player got 5 gold this round 
+ 18:41:39 - Russian Horseman <img=ico_headshot> New_Player 
+ 18:41:42 - New_Player got 6 gold this round 
+ 18:41:55 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 18:42:07 - New_Player has joined the game with ID: 982368 and has administrator rights. 
+ 18:42:13 - New_Player did join the server & his data was loaded 
+ 18:42:18 - New_Player started a poll to change bot counts to 0 and 1. 
+ 18:42:24 -  <img=ico_headshot> New_Player 
+ 18:42:27 - New_Player got 1 gold this round 
+ 18:42:30 - `çğˆçğ¼\ûéğ¸çğQÉ{ÚXûÙXûçğQÉ{ 'Ü÷ has joined the game with ID: 904941 
+ 18:42:30 - *SPEC* [`çğˆçğ¼\ûéğ¸çğQÉ{ÚXûÙXûçğQÉ{ 'Ü÷]  
+ 18:42:30 - *SPEC* [`çğˆçğ¼\ûéğ¸çğQÉ{ÚXûÙXûçğQÉ{ 'Ü÷]  
+ 18:42:30 - *SPEC* [`çğˆçğ¼\ûéğ¸çğQÉ{ÚXûÙXûçğQÉ{ 'Ü÷]  
+ 18:42:30 - *SPEC* [`çğˆçğ¼\ûéğ¸çğQÉ{ÚXûÙXûçğQÉ{ 'Ü÷]  
+ 18:42:30 - *SPEC* [`çğˆçğ¼\ûéğ¸çğQÉ{ÚXûÙXûçğQÉ{ 'Ü÷]  
+ 18:42:30 - *SPEC* [`çğˆçğ¼\ûéğ¸çğQÉ{ÚXûÙXûçğQÉ{ 'Ü÷]  
+ 18:42:30 - 0m£Ö has joined the game with ID: 14311463 
+ 18:43:17 - New_Player <img=ico_swordone> Tatar Infantryman 
+ 18:43:20 - New_Player got 4 gold this round 
+ 18:44:03 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 18:44:11 - New_Player has joined the game with ID: 982368 and has administrator rights. 
+ 18:44:17 - New_Player did join the server & his data was loaded 
+ 18:44:23 - New_Player started a poll to change bot counts to 0 and 1. 
+ 18:44:28 -  <img=ico_headshot> New_Player 
+ 18:44:31 - New_Player got 1 gold this round 
+ 18:45:20 - New_Player <img=ico_swordtwo> Tatar Infantryman 
+ 18:45:23 - New_Player got 4 gold this round 
+ 18:45:31 -  <img=ico_headshot> New_Player 
+ 18:45:34 - New_Player got 5 gold this round 
+ 

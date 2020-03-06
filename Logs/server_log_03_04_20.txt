@@ -1,3 +1,29 @@
 06:18:11 - SERVER has joined the game with ID: 0 and has administrator rights. 
  06:18:17 - New_Player has joined the game with ID: 982368 
+ 16:40:55 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 17:22:54 - New_Player has joined the game with ID: 982368 
+ 17:23:00 - New_Player has no account! 
+ 17:23:00 - New_Player is kicked. 
+ 17:23:08 - New_Player has joined the game with ID: 982368 
+ 17:23:14 - New_Player did join the server & his data was loaded 
+ 17:23:30 - New_Player started a poll to change map to Old castle and factions to Cossack Hetmanate and Kingdom of Sweden. 
+ 17:23:46 - New_Player did join the server & his data was loaded 
+ 17:24:05 - New_Player started a poll to change map to Old castle and factions to Crimean Khanate and Muscovite Tsardom. 
+ 17:24:21 - New_Player did join the server & his data was loaded 
+ 17:26:36 - New_Player started a poll to change map to Old castle and factions to Cossack Hetmanate and Kingdom of Sweden. 
+ 17:26:52 - New_Player did join the server & his data was loaded 
+ 17:27:17 - New_Player started a poll to change map to Old castle and factions to Polish Commonwealth and Muscovite Tsardom. 
+ 17:27:33 - New_Player did join the server & his data was loaded 
+ 17:28:30 - New_Player started a poll to change map to Old castle and factions to Polish Commonwealth and Crimean Khanate. 
+ 17:28:47 - New_Player did join the server & his data was loaded 
+ 17:29:04 - New_Player started a poll to change map to Old castle and factions to Polish Commonwealth and Kingdom of Sweden. 
+ 17:29:21 - New_Player did join the server & his data was loaded 
+ 17:33:31 - New_Player started a poll to change map to Old castle and factions to Polish Commonwealth and Muscovite Tsardom. 
+ 17:33:53 - New_Player did join the server & his data was loaded 
+ 17:35:18 - New_Player started a poll to change map to Old castle and factions to Crimean Khanate and Kingdom of Sweden. 
+ 17:35:34 - New_Player did join the server & his data was loaded 
+ 17:36:22 - New_Player started a poll to change map to Old castle and factions to Kingdom of Sweden and Cossack Hetmanate. 
+ 17:36:39 - New_Player did join the server & his data was loaded 
+ 17:38:24 - New_Player started a poll to change map to Old castle and factions to Kingdom of Sweden and Polish Commonwealth. 
+ 17:38:41 - New_Player did join the server & his data was loaded 
  
