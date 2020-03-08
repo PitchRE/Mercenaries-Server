@@ -7,6 +7,7 @@ Starting new log file.
  Setting Map Max X =  110.000000 
  Setting Map Min Y =  -110.000000 
  Setting Map Max Y =  100.000000 
+ Scan Module Sounds =  1 
  Num Hints =  12 
  Setting Time Multiplier =  0.250000 
  Setting Seeing Range Multiplier =  6.500000 
@@ -49,7 +50,6 @@ Starting new log file.
  Loading Resource  map_tree_meshes 
  Loading Resource  map_icon_meshes 
  Loading Resource  particle_meshes 
- Loading Resource  skeletons 
  Loading Resource  tree_meshes 
  Loading Resource  xtree_meshes 
  Loading Resource  grass_meshes 
@@ -140,7 +140,6 @@ Starting new log file.
  Loading Resource  boots_a 
  Loading Resource  terrain_borders 
  Loading Resource  terrain_borders_b 
- Loading Resource  skyboxes 
  Loading Resource  object_b 
  Loading Resource  tree_e_meshes 
  Loading Resource  destroy 
@@ -332,6 +331,16 @@ Starting new log file.
  Loading Module Resource  men_at_arms 
  Loading Module Resource  men_at_arms_lods 
  Loading Module Resource  Rus_armour_pack 
+ Loading Module Resource  narf's_plate_armour_pack_WB 
+ Loading Module Resource  narf's_transitional_armour_pack 
+ Loading Module Resource  skyboxes 
+ Loading Module Resource  ani_HMS 
+ Loading Module Resource  blood_and_iron_animations_parrot 
+ Loading Module Resource  skeletons 
+ Loading Module Resource  weapon_meshes_b_PMM_New_Warbow 
+ Loading Module Resource  weapon_meshes_b 
+ Loading Module Resource  medievalhelmets 
+ Loading Module Resource  15th_century_weapons 
  
 } //Processing Ini File Finished
  WARNING: UNABLE TO MAP GAME SCRIPT CODE:  game_check_party_sees_party 
@@ -340,4 +349,121 @@ Starting new log file.
  Loading dialogs...
  Loading mission templates...
  Loading party templates...
+ http://127.0.0.1/checkplayer?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=3
+ Hello 982368
+ DEBUG: Did give player 3 following troop: 1414
+ DEBUG: Give player 3 item 1036
+ DEBUG: Give player 3 item 1052
+ DEBUG: Give player 3 item 952
+ DEBUG: Give player 3 item 969
+ DEBUG: Give player 3 item 929
+ DEBUG: Give player 3 item 983
+ DEBUG: Give player 3 item 680
+  event player id 3
+  [1] 
+  event player id 3
+  [1] 
+ http://127.0.0.1/GiveEarnings?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=3&gold=1
+ http://127.0.0.1/GiveEXP?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=3&exp=1&kills=0&deaths=0
+ DEBUG: Give player 3 item 1036
+ DEBUG: Give player 3 item 1052
+ DEBUG: Give player 3 item 952
+ DEBUG: Give player 3 item 969
+ DEBUG: Give player 3 item 929
+ DEBUG: Give player 3 item 983
+ DEBUG: Give player 3 item 680
+ http://127.0.0.1/GiveEarnings?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=3&gold=2
+ http://127.0.0.1/GiveEXP?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=3&exp=2&kills=1&deaths=0
+ DEBUG: Give player 3 item 1036
+ DEBUG: Give player 3 item 1052
+ DEBUG: Give player 3 item 952
+ DEBUG: Give player 3 item 969
+ DEBUG: Give player 3 item 929
+ DEBUG: Give player 3 item 983
+ DEBUG: Give player 3 item 680
+ http://127.0.0.1/GiveEarnings?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=3&gold=1
+ http://127.0.0.1/GiveEXP?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=3&exp=1&kills=0&deaths=0
+ DEBUG: Give player 3 item 1036
+ DEBUG: Give player 3 item 1052
+ DEBUG: Give player 3 item 952
+ DEBUG: Give player 3 item 969
+ DEBUG: Give player 3 item 929
+ DEBUG: Give player 3 item 983
+ DEBUG: Give player 3 item 680
+  event player id 3
+  [1] 
+  event player id 3
+  [1] 
+  event player id 3
+  [1] 
+  event player id 3
+  [1] 
+  event player id 3
+  [1] 
+  event player id 3
+  [1] 
+ http://127.0.0.1/checkplayer?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=3
+ Hello 982368
+ DEBUG: Did give player 3 following troop: 1414
+ DEBUG: Give player 3 item 1036
+ DEBUG: Give player 3 item 1052
+ DEBUG: Give player 3 item 952
+ DEBUG: Give player 3 item 969
+ DEBUG: Give player 3 item 929
+ DEBUG: Give player 3 item 983
+ DEBUG: Give player 3 item 680
+  event player id 3
+  [1] 
+ http://127.0.0.1/checkplayer?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=3
+ Hello 982368
+ DEBUG: Did give player 3 following troop: 1414
+ DEBUG: Give player 3 item 1036
+ DEBUG: Give player 3 item 1052
+ DEBUG: Give player 3 item 952
+ DEBUG: Give player 3 item 969
+ DEBUG: Give player 3 item 929
+ DEBUG: Give player 3 item 983
+ DEBUG: Give player 3 item 680
+  event player id 3
+  [1] 
+ http://127.0.0.1/checkplayer?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=3
+ Hello 982368
+ DEBUG: Did give player 3 following troop: 1414
+ DEBUG: Give player 3 item 1036
+ DEBUG: Give player 3 item 1052
+ DEBUG: Give player 3 item 952
+ DEBUG: Give player 3 item 969
+ DEBUG: Give player 3 item 929
+ DEBUG: Give player 3 item 983
+ DEBUG: Give player 3 item 680
+  event player id 3
+  [1] 
+  event player id 3
+  [1] 
+  event player id 3
+  [1] 
+  event player id 3
+  [1] 
+  event player id 3
+  [1] 
+ http://127.0.0.1/GiveEarnings?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=3&gold=3
+ http://127.0.0.1/GiveEXP?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=3&exp=3&kills=2&deaths=0
+ http://127.0.0.1/checkplayer?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=4
+ Hello 982368
+ DEBUG: Did give player 4 following troop: 1415
+ DEBUG: Give player 4 item 1036
+ DEBUG: Give player 4 item 1052
+ DEBUG: Give player 4 item 952
+ DEBUG: Give player 4 item 969
+ DEBUG: Give player 4 item 929
+ DEBUG: Give player 4 item 983
+ DEBUG: Give player 4 item 680
+  event player id 4
+  [1] 
+  event player id 4
+  [1] 
+  event player id 4
+  [1] 
+ http://127.0.0.1/GiveEarnings?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=4&gold=1
+ http://127.0.0.1/GiveEXP?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=4&exp=1&kills=0&deaths=0
  

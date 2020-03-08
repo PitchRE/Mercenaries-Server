@@ -1,0 +1,944 @@
+00:03:58 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 00:04:27 - New_Player has joined the game with ID: 982368 
+ 00:04:32 - New_Player did join the server & his data was loaded 
+ 00:04:45 - New_Player started a poll to change bot counts to 5 and 5. 
+ 00:05:14 -  <img=ico_headshot> New_Player 
+ 00:05:17 - New_Player got 2 gold this round 
+ 00:05:17 - New_Player did add kills, deaths and 17 experience this round 
+ 00:05:44 - Swedish Cavalryman <img=ico_spear> Polish Cavalryman 
+ 00:05:46 - Swedish Cavalryman <img=ico_spear> Polish Cavalryman 
+ 00:05:47 - New_Player <img=ico_swordtwo> Polish Musketeer 
+ 00:05:53 - New_Player <img=ico_swordtwo> Polish Musketeer 
+ 00:06:12 - Swedish Cavalryman <img=ico_swordone> Polish Infantryman 
+ 00:06:15 - New_Player got 4 gold this round 
+ 00:06:15 - New_Player did add kills, deaths and 34 experience this round 
+ 00:06:38 - Swedish Cavalryman <img=ico_couchedlance> Polish Cavalryman 
+ 00:06:49 - New_Player <img=ico_swordtwo> Polish Cavalryman 
+ 00:07:00 - Swedish Cavalryman <img=ico_spear> Polish Cavalryman 
+ 00:07:01 - Swedish Infantryman <img=ico_spear> Polish Cavalryman 
+ 00:07:07 - Swedish Infantryman <img=ico_spear> Polish Infantryman 
+ 00:07:10 - New_Player got 3 gold this round 
+ 00:07:10 - New_Player did add kills, deaths and 26 experience this round 
+ 00:07:43 - Polish Infantryman <img=ico_spear> Swedish Cavalryman 
+ 00:07:54 - Polish Infantryman <img=ico_spear> Swedish Infantryman 
+ 00:07:57 - Polish Infantryman <img=ico_spear> Swedish Infantryman 
+ 00:08:02 - Polish Infantryman <img=ico_spear> Swedish Infantryman 
+ 00:08:11 - Swedish Musketeer <img=ico_blunt> Polish Infantryman 
+ 00:08:13 - Polish Infantryman <img=ico_spear> Swedish Musketeer 
+ 00:08:42 -  <img=ico_headshot> New_Player 
+ 00:27:12 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 00:27:36 - New_Player has joined the game with ID: 982368 
+ 00:27:41 - New_Player did join the server & his data was loaded 
+ 00:28:11 - New_Player <img=ico_swordtwo> Polish Infantryman 
+ 00:28:12 - New_Player <img=ico_swordtwo> Polish Infantryman 
+ 00:28:19 - New_Player <img=ico_swordtwo> Polish Musketeer 
+ 00:28:27 - New_Player <img=ico_swordtwo> Polish Musketeer 
+ 00:29:03 - New_Player <img=ico_swordtwo> Polish Cavalryman 
+ 00:29:06 - New_Player got 7 gold this round 
+ 00:29:06 - New_Player did add kills, deaths and 60 experience this round 
+ 00:29:47 -  <img=ico_headshot> New_Player 
+ 09:38:38 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 09:39:22 - New_Player has joined the game with ID: 982368 
+ 09:39:28 - New_Player did join the server & his data was loaded 
+ 09:41:13 -  <img=ico_headshot> New_Player 
+ 09:41:37 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 09:42:03 - New_Player has joined the game with ID: 982368 
+ 09:42:08 - New_Player did join the server & his data was loaded 
+ 09:43:06 -  <img=ico_headshot> New_Player 
+ 09:45:45 - New_Player has joined the game with ID: 982368 
+ 09:45:50 - New_Player did join the server & his data was loaded 
+ 09:46:29 -  <img=ico_headshot> New_Player 
+ 09:46:32 - New_Player got 2 gold this round 
+ 09:46:32 - New_Player did add kills, deaths and 17 experience this round 
+ 09:47:15 - New_Player <img=ico_spear> Polish Musketeer 
+ 09:47:35 - New_Player <img=ico_spear> Polish Musketeer 
+ 09:48:00 - New_Player started a poll to change bot counts to 15 and 0. 
+ 09:48:10 -  <img=ico_headshot> New_Player 
+ 09:48:22 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 09:48:46 - New_Player has joined the game with ID: 982368 
+ 09:48:51 - New_Player did join the server & his data was loaded 
+ 09:49:02 - New_Player has joined the game with ID: 982368 and has administrator rights. 
+ 09:49:06 - New_Player did join the server & his data was loaded 
+ 09:49:32 - New_Player did join the server & his data was loaded 
+ 09:50:14 - Swedish Musketeer <img=ico_headshot> New_Player 
+ 09:50:17 - New_Player got 1 gold this round 
+ 09:50:17 - New_Player did add kills, deaths and 9 experience this round 
+ 09:50:27 - New_Player started a poll to change bot counts to 10 and 0. 
+ 09:51:14 - New_Player <img=ico_spear> Swedish Musketeer 
+ 09:51:23 - Swedish Infantryman <img=ico_spear> New_Player 
+ 09:51:26 - New_Player got 2 gold this round 
+ 09:51:26 - New_Player did add kills, deaths and 17 experience this round 
+ 09:52:03 - New_Player <img=ico_spear> Swedish Infantryman 
+ 09:52:09 - New_Player <img=ico_spear> Swedish Musketeer 
+ 09:52:11 - New_Player <img=ico_spear> Swedish Musketeer 
+ 09:52:18 - Swedish Infantryman <img=ico_spear> New_Player 
+ 09:52:21 - New_Player got 4 gold this round 
+ 09:52:21 - New_Player did add kills, deaths and 34 experience this round 
+ 09:52:57 - New_Player <img=ico_spear> Swedish Infantryman 
+ 09:53:04 - New_Player <img=ico_spear> Swedish Infantryman 
+ 09:53:25 - New_Player <img=ico_spear> Swedish Infantryman 
+ 09:53:31 - New_Player <img=ico_spear> Swedish Cavalryman 
+ 09:53:53 - New_Player <img=ico_spear> Swedish Cavalryman 
+ 09:53:56 - New_Player got 7 gold this round 
+ 09:53:56 - New_Player did add kills, deaths and 60 experience this round 
+ 09:54:32 - New_Player <img=ico_spear> Swedish Musketeer 
+ 09:54:54 - New_Player <img=ico_spear> Swedish Infantryman 
+ 09:54:59 - New_Player <img=ico_spear> Swedish Infantryman 
+ 09:55:02 - New_Player <img=ico_spear> Swedish Infantryman 
+ 09:55:17 - New_Player <img=ico_spear> Swedish Musketeer 
+ 09:55:20 - New_Player got 7 gold this round 
+ 09:55:20 - New_Player did add kills, deaths and 60 experience this round 
+ 09:56:08 - New_Player <img=ico_spear> Swedish Musketeer 
+ 09:56:12 - New_Player <img=ico_spear> Swedish Musketeer 
+ 09:56:21 - New_Player <img=ico_spear> Swedish Musketeer 
+ 09:56:31 - New_Player <img=ico_spear> Swedish Cavalryman 
+ 09:56:36 - New_Player <img=ico_spear> Swedish Cavalryman 
+ 09:56:39 - New_Player got 7 gold this round 
+ 09:56:39 - New_Player did add kills, deaths and 60 experience this round 
+ 09:57:22 - New_Player <img=ico_spear> Swedish Musketeer 
+ 09:57:54 - New_Player <img=ico_spear> Swedish Infantryman 
+ 09:58:13 - New_Player <img=ico_punch> Swedish Cavalryman 
+ 09:58:20 - New_Player <img=ico_spear> Swedish Infantryman 
+ 09:58:23 -  <img=ico_headshot> New_Player 
+ 10:05:53 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 10:06:13 - New_Player has joined the game with ID: 982368 and has administrator rights. 
+ 10:06:17 - New_Player did join the server & his data was loaded 
+ 10:06:33 - New_Player did join the server & his data was loaded 
+ 10:07:49 - New_Player <img=ico_spear> Swedish Musketeer 
+ 10:07:52 - New_Player <img=ico_spear> Swedish Musketeer 
+ 10:08:00 - New_Player <img=ico_spear> Swedish Infantryman 
+ 10:08:03 - Swedish Infantryman <img=ico_spear> New_Player 
+ 10:08:06 - New_Player got 4 gold this round 
+ 10:08:06 - New_Player did add kills, deaths and 34 experience this round 
+ 10:08:46 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 10:09:50 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 10:10:44 - New_Player has joined the game with ID: 982368 
+ 10:10:49 - New_Player did join the server & his data was loaded 
+ 10:11:00 - New_Player has joined the game with ID: 982368 and has administrator rights. 
+ 10:11:05 - New_Player did join the server & his data was loaded 
+ 10:11:22 - New_Player did join the server & his data was loaded 
+ 10:11:53 - New_Player <img=ico_spear> Swedish Musketeer 
+ 10:12:15 - New_Player <img=ico_spear> Swedish Infantryman 
+ 10:12:26 - New_Player <img=ico_spear> Swedish Musketeer 
+ 10:13:02 - Swedish Cavalryman <img=ico_swordone> New_Player 
+ 10:13:05 - New_Player got 4 gold this round 
+ 10:13:05 - New_Player did add kills, deaths and 34 experience this round 
+ 10:13:40 - New_Player <img=ico_spear> Swedish Infantryman 
+ 10:13:44 - New_Player <img=ico_spear> Swedish Musketeer 
+ 10:13:50 - New_Player <img=ico_spear> Swedish Musketeer 
+ 10:13:53 - New_Player <img=ico_spear> Swedish Cavalryman 
+ 10:13:59 - New_Player <img=ico_spear> Swedish Cavalryman 
+ 10:14:02 - New_Player got 7 gold this round 
+ 10:14:02 - New_Player did add kills, deaths and 60 experience this round 
+ 10:14:58 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 10:15:15 - New_Player has joined the game with ID: 982368 and has administrator rights. 
+ 10:15:19 - New_Player did join the server & his data was loaded 
+ 10:16:13 - Russian Infantryman <img=ico_spear> New_Player 
+ 10:16:16 - New_Player got 1 gold this round 
+ 10:16:16 - New_Player did add kills, deaths and 9 experience this round 
+ 10:16:44 - New_Player <img=ico_spear> Russian Rifleman 
+ 10:16:52 - New_Player <img=ico_spear> Russian Rifleman 
+ 10:17:05 - New_Player <img=ico_spear> Russian Infantryman 
+ 10:17:06 - New_Player <img=ico_spear> Russian Infantryman 
+ 10:17:40 - Russian Horseman <img=ico_bow> New_Player 
+ 10:17:43 - New_Player got 5 gold this round 
+ 10:17:43 - New_Player did add kills, deaths and 43 experience this round 
+ 10:19:08 - Russian Infantryman <img=ico_spear> New_Player 
+ 10:19:11 - New_Player got 1 gold this round 
+ 10:19:11 - New_Player did add kills, deaths and 9 experience this round 
+ 10:20:54 - Russian Rifleman <img=ico_crossbow> New_Player 
+ 10:20:57 - New_Player got 1 gold this round 
+ 10:20:58 - New_Player did add kills, deaths and 9 experience this round 
+ 10:22:55 - Russian Infantryman <img=ico_spear> New_Player 
+ 10:22:58 - New_Player got 1 gold this round 
+ 10:22:58 - New_Player did add kills, deaths and 9 experience this round 
+ 10:23:28 - New_Player <img=ico_spear> Russian Rifleman 
+ 10:23:32 - New_Player <img=ico_spear> Russian Infantryman 
+ 10:23:38 - New_Player <img=ico_spear> Russian Rifleman 
+ 10:23:40 - Russian Rifleman <img=ico_axetwo> New_Player 
+ 10:23:43 - New_Player got 4 gold this round 
+ 10:23:43 - New_Player did add kills, deaths and 34 experience this round 
+ 10:25:24 - Russian Rifleman <img=ico_crossbow> New_Player 
+ 10:25:27 - New_Player got 1 gold this round 
+ 10:25:27 - New_Player did add kills, deaths and 9 experience this round 
+ 10:27:16 - Russian Rifleman <img=ico_headshot> New_Player 
+ 10:27:19 - New_Player got 1 gold this round 
+ 10:27:19 - New_Player did add kills, deaths and 9 experience this round 
+ 10:28:57 - Russian Infantryman <img=ico_spear> New_Player 
+ 10:29:00 - New_Player got 1 gold this round 
+ 10:29:00 - New_Player did add kills, deaths and 9 experience this round 
+ 10:30:37 - Russian Rifleman <img=ico_headshot> New_Player 
+ 10:30:41 - New_Player got 1 gold this round 
+ 10:30:41 - New_Player did add kills, deaths and 9 experience this round 
+ 10:32:14 - Russian Rifleman <img=ico_crossbow> New_Player 
+ 10:32:17 - New_Player got 1 gold this round 
+ 10:32:17 - New_Player did add kills, deaths and 9 experience this round 
+ 10:33:42 - Russian Horseman <img=ico_bow> New_Player 
+ 10:33:45 - New_Player got 1 gold this round 
+ 10:33:45 - New_Player did add kills, deaths and 9 experience this round 
+ 10:35:04 - Russian Infantryman <img=ico_spear> New_Player 
+ 10:35:07 - New_Player got 1 gold this round 
+ 10:35:07 - New_Player did add kills, deaths and 9 experience this round 
+ 10:35:35 - New_Player <img=ico_spear> Russian Rifleman 
+ 10:35:46 - New_Player <img=ico_spear> Russian Infantryman 
+ 10:35:54 - New_Player <img=ico_spear> Russian Infantryman 
+ 10:35:57 -  <img=ico_headshot> New_Player 
+ 10:53:18 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 10:53:52 - New_Player has joined the game with ID: 982368 and has administrator rights. 
+ 10:53:57 - New_Player did join the server & his data was loaded 
+ 10:54:08 - `Á has joined the game with ID: 0 
+ 10:54:10 - *SPEC* [`Á] ä 
+ 10:54:10 - *SPEC* [`Á] ä 
+ 10:54:10 - *SPEC* [`Á] é 
+ 10:54:10 - *SPEC* [`Á] ë 
+ 10:54:10 - @Ê ‰Ï ‰\Äx‡ has joined the game with ID: 1006625 
+ 10:54:11 - *SPEC* [@Ê ‰Ï ‰\Äx‡] ˚ 
+ 10:54:11 - *SPEC* [@Ê ‰Ï ‰\Äx‡] ˝ 
+ 10:54:11 - *SPEC* [@Ê ‰Ï ‰\Äx‡] ˝ 
+ 10:54:11 - *SPEC* [@Ê ‰Ï ‰\Äx‡]  
+ 10:54:11 - *SPEC* [@Ê ‰Ï ‰\Äx‡]  
+ 10:54:11 - *SPEC* [@Ê ‰Ï ‰\Äx‡]  
+ 10:54:11 - *SPEC* [@Ê ‰Ï ‰\Äx‡]  
+ 10:54:11 - *SPEC* [@Ê ‰Ï ‰\Äx‡]  
+ 10:54:11 - *SPEC* [@Ê ‰Ï ‰\Äx‡]  
+ 10:54:11 - *SPEC* [@Ê ‰Ï ‰\Äx‡] 	 
+ 10:54:11 - *SPEC* [@Ê ‰Ï ‰\Äx‡] 	 
+ 10:54:24 - New_Player did join the server & his data was loaded 
+ 10:54:28 - `Á has joined the game with ID: 0 
+ 10:54:29 - *SPEC* [`Á] √ 
+ 10:54:29 - *SPEC* [`Á] √ 
+ 10:54:29 - *SPEC* [`Á] ” 
+ 10:54:29 - *SPEC* [`Á] I 
+ 10:54:29 - *SPEC* [`Á] I 
+ 10:54:29 - *SPEC* [`Á] M 
+ 10:54:29 - *SPEC* [`Á] P 
+ 10:54:29 - *SPEC* [`Á] S 
+ 10:54:29 - *SPEC* [`Á] V 
+ 10:54:29 - *SPEC* [`Á] Y 
+ 10:54:29 - *SPEC* [`Á] \ 
+ 10:54:29 - *SPEC* [`Á] _ 
+ 10:54:29 - *SPEC* [`Á] b 
+ 10:54:29 - *SPEC* [`Á] e 
+ 10:54:30 - *SPEC* [`Á] h 
+ 10:54:30 - *SPEC* [`Á] h 
+ 10:54:30 - *SPEC* [`Á] ∑ 
+ 10:54:30 - WÊVƒábW&7óˆÊ2W&gW&ÁÙπB!Ì has joined the game with ID: 12492800 
+ 10:54:32 - *SPEC* [WÊVƒábW&7óˆÊ2W&gW&ÁÙπB!Ì] y 
+ 10:54:32 - *SPEC* [WÊVƒábW&7óˆÊ2W&gW&ÁÙπB!Ì] } 
+ 10:54:32 - *SPEC* [WÊVƒábW&7óˆÊ2W&gW&ÁÙπB!Ì] Å 
+ 10:54:32 - *SPEC* [WÊVƒábW&7óˆÊ2W&gW&ÁÙπB!Ì] Ö 
+ 10:54:32 - *SPEC* [WÊVƒábW&7óˆÊ2W&gW&ÁÙπB!Ì] â 
+ 10:54:32 - *SPEC* [WÊVƒábW&7óˆÊ2W&gW&ÁÙπB!Ì] ç 
+ 10:54:33 - *SPEC* [WÊVƒábW&7óˆÊ2W&gW&ÁÙπB!Ì]  
+ 10:54:33 - *SPEC* [WÊVƒábW&7óˆÊ2W&gW&ÁÙπB!Ì]  
+ 10:54:33 - *SPEC* [WÊVƒábW&7óˆÊ2W&gW&ÁÙπB!Ì]  
+ 10:54:33 - *SPEC* [WÊVƒábW&7óˆÊ2W&gW&ÁÙπB!Ì]  
+ 10:54:33 - *SPEC* [WÊVƒábW&7óˆÊ2W&gW&ÁÙπB!Ì]  
+ 10:54:33 - *SPEC* [WÊVƒábW&7óˆÊ2W&gW&ÁÙπB!Ì]  
+ 10:54:34 - *SPEC* [WÊVƒábW&7óˆÊ2W&gW&ÁÙπB!Ì] ü 
+ 10:54:34 - *SPEC* [WÊVƒábW&7óˆÊ2W&gW&ÁÙπB!Ì] £ 
+ 10:54:34 - *SPEC* [WÊVƒábW&7óˆÊ2W&gW&ÁÙπB!Ì] ß 
+ 10:54:34 - *SPEC* [WÊVƒábW&7óˆÊ2W&gW&ÁÙπB!Ì] ´ 
+ 10:54:34 - *SPEC* [WÊVƒábW&7óˆÊ2W&gW&ÁÙπB!Ì] Ø 
+ 10:54:34 - *SPEC* [WÊVƒábW&7óˆÊ2W&gW&ÁÙπB!Ì] ≥ 
+ 10:54:34 - *SPEC* [WÊVƒábW&7óˆÊ2W&gW&ÁÙπB!Ì] ü 
+ 10:55:09 - Swedish Musketeer <img=ico_crossbow> New_Player 
+ 10:55:12 - New_Player got 1 gold this round 
+ 10:55:12 - New_Player did add kills, deaths and 9 experience this round 
+ 10:55:55 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 10:56:12 - New_Player has joined the game with ID: 982368 and has administrator rights. 
+ 10:56:17 - New_Player did join the server & his data was loaded 
+ 10:57:14 - New_Player <img=ico_spear> Polish Musketeer 
+ 10:57:18 - Polish Infantryman <img=ico_spear> New_Player 
+ 10:57:21 - New_Player got 2 gold this round 
+ 10:57:21 - New_Player did add kills, deaths and 17 experience this round 
+ 10:58:04 - Polish Cavalryman <img=ico_couchedlance> New_Player 
+ 10:58:07 - New_Player got 1 gold this round 
+ 10:58:07 - New_Player did add kills, deaths and 9 experience this round 
+ 10:59:13 -  <img=ico_headshot> New_Player 
+ 10:59:29 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 10:59:58 - New_Player has joined the game with ID: 982368 
+ 11:00:03 - New_Player did join the server & his data was loaded 
+ 11:00:14 - New_Player started a poll to change bot counts to 20 and 0. 
+ 11:00:39 - New_Player <img=ico_spear> Tatar Infantryman 
+ 11:00:48 - New_Player <img=ico_spear> Tatar Infantryman 
+ 11:01:02 -  <img=ico_headshot> New_Player 
+ 11:01:05 - New_Player got 4 gold this round 
+ 11:01:05 - New_Player did add kills, deaths and 34 experience this round 
+ 11:02:42 - Tatar Infantryman <img=ico_headshot> New_Player 
+ 11:02:46 - New_Player did add kills, deaths and 9 experience this round 
+ 11:02:46 - New_Player got 1 gold this round 
+ 11:03:25 - Tatar Horseman <img=ico_couchedlance> New_Player 
+ 11:03:28 - New_Player got 1 gold this round 
+ 11:03:28 - New_Player did add kills, deaths and 9 experience this round 
+ 11:04:06 - Tatar Horseman <img=ico_couchedlance> New_Player 
+ 11:18:03 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 11:19:03 - New_Player has joined the game with ID: 982368 and has administrator rights. 
+ 11:19:08 - New_Player did join the server & his data was loaded 
+ 11:20:13 - New_Player <img=ico_swordtwo> Swedish Infantryman 
+ 11:20:18 - New_Player <img=ico_swordtwo> Swedish Infantryman 
+ 11:20:25 - New_Player <img=ico_swordtwo> Swedish Musketeer 
+ 11:20:32 - Swedish Musketeer <img=ico_swordone> New_Player 
+ 11:20:35 - New_Player got 4 gold this round 
+ 11:20:35 - New_Player did add kills, deaths and 34 experience this round 
+ 11:21:07 - New_Player <img=ico_swordtwo> Swedish Musketeer 
+ 11:21:24 - New_Player <img=ico_swordtwo> Swedish Infantryman 
+ 11:21:48 - New_Player <img=ico_swordtwo> Swedish Infantryman 
+ 11:21:53 -  <img=ico_headshot> New_Player 
+ 11:25:36 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 11:26:08 - New_Player has joined the game with ID: 982368 
+ 11:26:12 - New_Player did join the server & his data was loaded 
+ 11:26:48 - New_Player <img=ico_swordtwo> Russian Rifleman 
+ 11:26:55 - New_Player <img=ico_swordtwo> Russian Rifleman 
+ 11:27:02 - New_Player <img=ico_swordtwo> Russian Infantryman 
+ 11:27:19 - New_Player <img=ico_swordtwo> Russian Horseman 
+ 11:27:36 - New_Player <img=ico_swordtwo> Russian Horseman 
+ 11:27:39 - New_Player got 8 gold this round 
+ 11:27:39 - New_Player did add kills, deaths and 68 experience this round 
+ 11:28:27 - New_Player <img=ico_swordtwo> Russian Rifleman 
+ 11:28:32 - New_Player <img=ico_swordtwo> Russian Rifleman 
+ 11:28:38 - New_Player <img=ico_swordtwo> Russian Infantryman 
+ 11:28:44 - New_Player <img=ico_swordtwo> Russian Rifleman 
+ 11:28:52 - Russian Horseman <img=ico_bow> New_Player 
+ 11:28:55 - New_Player got 5 gold this round 
+ 11:28:55 - New_Player did add kills, deaths and 43 experience this round 
+ 11:30:45 - Russian Infantryman <img=ico_spear> New_Player 
+ 11:30:48 - New_Player got 1 gold this round 
+ 11:30:48 - New_Player did add kills, deaths and 9 experience this round 
+ 11:32:02 - Russian Infantryman <img=ico_spear> New_Player 
+ 11:32:05 - New_Player got 1 gold this round 
+ 11:32:05 - New_Player did add kills, deaths and 9 experience this round 
+ 11:33:11 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 11:33:24 - New_Player has joined the game with ID: 982368 
+ 11:33:29 - New_Player did join the server & his data was loaded 
+ 11:33:35 - New_Player started a poll to change bot counts to 20 and 5. 
+ 11:34:06 - New_Player <img=ico_spear> Polish Infantryman 
+ 11:34:11 - New_Player <img=ico_spear> Polish Musketeer 
+ 11:34:16 - New_Player <img=ico_spear> Polish Infantryman 
+ 11:34:18 - New_Player <img=ico_spear> Polish Musketeer 
+ 11:34:28 - New_Player <img=ico_spear> Polish Cavalryman 
+ 11:34:31 - New_Player got 7 gold this round 
+ 11:34:31 - New_Player did add kills, deaths and 60 experience this round 
+ 11:35:04 - Polish Cavalryman <img=ico_couchedlance> Swedish Infantryman 
+ 11:35:06 - Polish Cavalryman <img=ico_couchedlance> Swedish Musketeer 
+ 11:35:10 - Polish Cavalryman <img=ico_spear> Swedish Musketeer 
+ 11:35:11 - Polish Cavalryman <img=ico_spear> Swedish Musketeer 
+ 11:35:35 - Polish Infantryman <img=ico_spear> Swedish Musketeer 
+ 11:36:02 - Polish Infantryman <img=ico_spear> New_Player 
+ 11:36:05 - New_Player got 1 gold this round 
+ 11:36:05 - New_Player did add kills, deaths and 9 experience this round 
+ 11:36:20 -  <img=ico_headshot> New_Player 
+ 11:36:31 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 11:37:48 - New_Player has joined the game with ID: 982368 
+ 11:37:53 - New_Player did join the server & his data was loaded 
+ 11:37:59 - New_Player started a poll to change bot counts to 25 and 7. 
+ 11:38:34 - New_Player <img=ico_spear> Swedish Musketeer 
+ 11:38:36 - New_Player <img=ico_spear> Swedish Infantryman 
+ 11:38:48 - New_Player <img=ico_spear> Swedish Musketeer 
+ 11:39:01 - New_Player <img=ico_spear> Swedish Cavalryman 
+ 11:39:04 -  <img=ico_headshot> New_Player 
+ 11:39:14 - New_Player has joined the game with ID: 982368 and has administrator rights. 
+ 11:39:19 - New_Player did join the server & his data was loaded 
+ 11:39:46 - New_Player did join the server & his data was loaded 
+ 11:40:40 - Tatar Horseman <img=ico_spear> Tatar Horse Rifleman 
+ 11:40:42 - Tatar Infantryman <img=ico_headshot> New_Player 
+ 11:40:46 - Tatar Infantryman <img=ico_swordone> Tatar Horseman 
+ 11:40:49 - Tatar Horse Rifleman <img=ico_bow> Tatar Horse Rifleman 
+ 11:44:48 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 11:45:16 - New_Player has joined the game with ID: 982368 and has administrator rights. 
+ 11:45:20 - New_Player did join the server & his data was loaded 
+ 11:45:51 - New_Player <img=ico_spear> Polish Infantryman 
+ 11:46:02 - New_Player <img=ico_spear> Polish Musketeer 
+ 11:46:08 - New_Player <img=ico_spear> Polish Musketeer 
+ 11:46:13 - Polish Musketeer <img=ico_swordone> New_Player 
+ 11:46:17 - New_Player got 4 gold this round 
+ 11:46:17 - New_Player did add kills, deaths and 34 experience this round 
+ 11:48:06 - New_Player <img=ico_spear> Polish Infantryman 
+ 11:48:12 - New_Player <img=ico_spear> Polish Infantryman 
+ 11:48:22 - New_Player <img=ico_spear> Polish Infantryman 
+ 11:48:25 -  <img=ico_headshot> New_Player 
+ 11:48:33 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 11:49:13 - New_Player has joined the game with ID: 982368 
+ 11:49:18 - New_Player did join the server & his data was loaded 
+ 11:49:46 - New_Player <img=ico_spear> Swedish Infantryman 
+ 11:49:51 - New_Player <img=ico_spear> Swedish Infantryman 
+ 11:50:00 - New_Player <img=ico_spear> Swedish Infantryman 
+ 11:50:06 - New_Player <img=ico_punch> Swedish Cavalryman 
+ 11:50:14 - New_Player <img=ico_spear> Swedish Musketeer 
+ 11:50:17 - New_Player got 8 gold this round 
+ 11:50:17 - New_Player did add kills, deaths and 68 experience this round 
+ 11:50:54 - New_Player <img=ico_spear> Swedish Infantryman 
+ 11:51:00 - New_Player <img=ico_spear> Swedish Infantryman 
+ 11:51:22 - New_Player <img=ico_spear> Swedish Cavalryman 
+ 11:51:56 - New_Player <img=ico_spear> Swedish Cavalryman 
+ 11:51:59 - New_Player <img=ico_spear> Swedish Cavalryman 
+ 11:52:02 - New_Player got 8 gold this round 
+ 11:52:02 - New_Player did add kills, deaths and 68 experience this round 
+ 11:52:34 - Swedish Cavalryman <img=ico_couchedlance> New_Player 
+ 11:52:37 - New_Player got 1 gold this round 
+ 11:52:37 - New_Player did add kills, deaths and 9 experience this round 
+ 11:53:05 - New_Player has joined the game with ID: 982368 
+ 11:53:10 - New_Player did join the server & his data was loaded 
+ 11:53:35 - Swedish Cavalryman <img=ico_couchedlance> New_Player 
+ 11:53:38 - New_Player got 1 gold this round 
+ 11:53:38 - New_Player did add kills, deaths and 9 experience this round 
+ 11:54:10 -  <img=ico_headshot> New_Player 
+ 11:58:58 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 12:00:01 - New_Player has joined the game with ID: 982368 
+ 12:00:06 - New_Player did join the server & his data was loaded 
+ 12:00:35 - New_Player <img=ico_spear> Polish Infantryman 
+ 12:00:44 - New_Player <img=ico_spear> Polish Musketeer 
+ 12:00:48 - New_Player <img=ico_spear> Polish Musketeer 
+ 12:00:51 -  <img=ico_headshot> New_Player 
+ 12:03:12 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 12:03:28 - New_Player has joined the game with ID: 982368 and has administrator rights. 
+ 12:03:33 - New_Player did join the server & his data was loaded 
+ 12:04:32 - Russian Infantryman <img=ico_spear> New_Player 
+ 12:04:35 - New_Player got 1 gold this round 
+ 12:04:35 - New_Player did add kills, deaths and 9 experience this round 
+ 12:05:14 -  <img=ico_headshot> New_Player 
+ 12:05:28 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 12:05:53 - New_Player has joined the game with ID: 982368 and has administrator rights. 
+ 12:05:58 - New_Player did join the server & his data was loaded 
+ 12:07:15 - Polish Cavalryman <img=ico_blunt> New_Player 
+ 12:07:18 - New_Player got 1 gold this round 
+ 12:07:18 - New_Player did add kills, deaths and 9 experience this round 
+ 12:07:38 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 12:07:58 - New_Player has joined the game with ID: 982368 and has administrator rights. 
+ 12:08:03 - New_Player did join the server & his data was loaded 
+ 12:09:36 -  <img=ico_headshot> New_Player 
+ 12:09:48 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 12:10:13 - New_Player has joined the game with ID: 982368 
+ 12:10:18 - New_Player did join the server & his data was loaded 
+ 12:11:55 - Swedish Infantryman <img=ico_spear> New_Player 
+ 12:11:58 - New_Player got 1 gold this round 
+ 12:11:58 - New_Player did add kills, deaths and 9 experience this round 
+ 12:12:43 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 12:13:01 - New_Player has joined the game with ID: 982368 
+ 12:13:05 - New_Player did join the server & his data was loaded 
+ 12:14:25 -  <img=ico_headshot> New_Player 
+ 12:14:38 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 12:14:57 - New_Player has joined the game with ID: 982368 
+ 12:15:02 - New_Player did join the server & his data was loaded 
+ 12:16:25 - Russian Infantryman <img=ico_spear> New_Player 
+ 12:16:28 - New_Player got 1 gold this round 
+ 12:16:29 - New_Player did add kills, deaths and 9 experience this round 
+ 12:17:25 - New_Player <img=ico_spear> Russian Infantryman 
+ 12:17:31 - New_Player <img=ico_spear> Russian Horseman 
+ 12:17:51 - New_Player <img=ico_spear> Russian Rifleman 
+ 12:18:20 -  <img=ico_headshot> New_Player 
+ 12:18:27 - New_Player has joined the game with ID: 982368 
+ 12:18:32 - New_Player did join the server & his data was loaded 
+ 12:19:13 - New_Player started a poll to change map to Trenches. 
+ 12:19:30 - New_Player did join the server & his data was loaded 
+ 12:23:05 - New_Player has joined the game with ID: 982368 
+ 12:23:10 - New_Player did join the server & his data was loaded 
+ 12:24:05 -  <img=ico_headshot> New_Player 
+ 12:24:14 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 12:24:46 - New_Player has joined the game with ID: 982368 
+ 12:24:50 - New_Player did join the server & his data was loaded 
+ 12:24:52 - New_Player started a poll to change map to Trenches. 
+ 12:25:21 - New_Player did join the server & his data was loaded 
+ 12:26:05 -  <img=ico_headshot> New_Player 
+ 12:26:25 - New_Player has joined the game with ID: 982368 
+ 12:26:30 - New_Player did join the server & his data was loaded 
+ 12:26:40 - New_Player started a poll to change map to Old castle. 
+ 12:26:56 - New_Player did join the server & his data was loaded 
+ 12:28:06 - New_Player has joined the game with ID: 982368 
+ 12:28:12 - New_Player did join the server & his data was loaded 
+ 12:29:24 - New_Player started a poll to change map to Trenches. 
+ 12:29:40 - New_Player did join the server & his data was loaded 
+ 12:30:54 -  <img=ico_headshot> New_Player 
+ 12:31:15 - New_Player has joined the game with ID: 982368 
+ 12:31:20 - New_Player did join the server & his data was loaded 
+ 12:32:21 - Russian Infantryman <img=ico_spear> New_Player 
+ 12:32:24 - New_Player got 1 gold this round 
+ 12:32:24 - New_Player did add kills, deaths and 9 experience this round 
+ 12:34:14 - Russian Infantryman <img=ico_spear> New_Player 
+ 12:34:17 - New_Player got 1 gold this round 
+ 12:34:17 - New_Player did add kills, deaths and 9 experience this round 
+ 12:34:55 -  <img=ico_headshot> New_Player 
+ 12:35:32 - New_Player has joined the game with ID: 982368 
+ 12:35:37 - New_Player did join the server & his data was loaded 
+ 12:35:45 -  <img=ico_headshot> New_Player 
+ 12:35:48 - New_Player got 1 gold this round 
+ 12:35:48 - New_Player did add kills, deaths and 9 experience this round 
+ 12:36:27 - New_Player has joined the game with ID: 982368 
+ 12:36:31 - New_Player did join the server & his data was loaded 
+ 12:39:35 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 12:39:54 - New_Player has joined the game with ID: 982368 
+ 12:39:59 - New_Player did join the server & his data was loaded 
+ 12:39:59 - New_Player started a poll to change map to Trenches. 
+ 12:40:16 - New_Player did join the server & his data was loaded 
+ 12:41:01 - New_Player started a poll to change map to Old castle. 
+ 12:41:17 - New_Player did join the server & his data was loaded 
+ 12:42:11 -  <img=ico_headshot> New_Player 
+ 12:42:30 - New_Player has joined the game with ID: 982368 
+ 12:42:35 - New_Player did join the server & his data was loaded 
+ 12:42:44 - New_Player started a poll to change map to Trenches. 
+ 12:43:00 - New_Player did join the server & his data was loaded 
+ 12:44:02 -  <img=ico_headshot> New_Player 
+ 12:44:40 - New_Player has joined the game with ID: 982368 
+ 12:44:44 - New_Player did join the server & his data was loaded 
+ 12:45:15 - New_Player has joined the game with ID: 982368 
+ 12:45:20 - New_Player did join the server & his data was loaded 
+ 12:46:19 - New_Player has joined the game with ID: 982368 
+ 12:46:24 - New_Player did join the server & his data was loaded 
+ 12:46:43 -  <img=ico_headshot> New_Player 
+ 12:46:52 - New_Player has joined the game with ID: 982368 
+ 12:46:56 - New_Player did join the server & his data was loaded 
+ 12:48:10 -  <img=ico_headshot> New_Player 
+ 12:48:29 - New_Player has joined the game with ID: 982368 
+ 12:48:34 - New_Player did join the server & his data was loaded 
+ 12:49:44 -  <img=ico_headshot> New_Player 
+ 12:51:07 - New_Player has joined the game with ID: 982368 
+ 12:51:12 - New_Player did join the server & his data was loaded 
+ 12:52:21 - Russian Infantryman <img=ico_spear> New_Player 
+ 12:52:24 - New_Player got 1 gold this round 
+ 12:52:24 - New_Player did add kills, deaths and 9 experience this round 
+ 12:52:53 -  <img=ico_headshot> New_Player 
+ 12:53:32 - New_Player has joined the game with ID: 982368 
+ 12:53:37 - New_Player did join the server & his data was loaded 
+ 12:54:50 - Russian Rifleman <img=ico_axetwo> New_Player 
+ 12:54:53 - New_Player got 1 gold this round 
+ 12:54:53 - New_Player did add kills, deaths and 9 experience this round 
+ 12:55:56 -  <img=ico_headshot> New_Player 
+ 13:20:07 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 13:36:39 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 13:36:59 - New_Player has joined the game with ID: 982368 
+ 13:37:04 - New_Player did join the server & his data was loaded 
+ 13:37:08 - New_Player started a poll to change map to Forest skirt. 
+ 13:37:23 - New_Player did join the server & his data was loaded 
+ 13:38:15 - New_Player started a poll to change map to Tatar town. 
+ 13:38:32 - New_Player did join the server & his data was loaded 
+ 13:38:41 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 13:39:01 - New_Player has joined the game with ID: 982368 
+ 13:39:06 - New_Player did join the server & his data was loaded 
+ 13:39:08 - New_Player started a poll to change map to Hill road. 
+ 13:39:23 - New_Player did join the server & his data was loaded 
+ 13:40:27 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 13:40:54 - New_Player has joined the game with ID: 982368 
+ 13:40:59 - New_Player did join the server & his data was loaded 
+ 13:41:15 - New_Player started a poll to change map to Fields. 
+ 13:41:31 - New_Player did join the server & his data was loaded 
+ 13:42:08 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 13:42:23 - New_Player has joined the game with ID: 982368 
+ 13:42:28 - New_Player did join the server & his data was loaded 
+ 13:42:33 - New_Player started a poll to change map to Fields. 
+ 13:42:48 - New_Player did join the server & his data was loaded 
+ 14:02:44 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 14:05:29 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 14:05:42 - New_Player has joined the game with ID: 982368 
+ 14:05:48 - New_Player did join the server & his data was loaded 
+ 14:05:50 - New_Player started a poll to change map to Fields. 
+ 14:06:07 - New_Player did join the server & his data was loaded 
+ 14:06:44 - Polish Musketeer <img=ico_swordone> New_Player 
+ 14:07:08 - New_Player has joined the game with ID: 982368 
+ 14:07:13 - New_Player did join the server & his data was loaded 
+ 14:07:52 - New_Player <img=ico_spear> Polish Infantryman 
+ 14:08:10 - New_Player <img=ico_spear> Polish Infantryman 
+ 14:08:14 - Polish Infantryman <img=ico_spear> New_Player 
+ 14:08:17 - New_Player got 3 gold this round 
+ 14:08:17 - New_Player did add kills, deaths and 26 experience this round 
+ 14:08:55 - New_Player <img=ico_spear> Polish Infantryman 
+ 14:09:02 - New_Player <img=ico_spear> Polish Musketeer 
+ 14:09:12 - New_Player <img=ico_punch> Polish Musketeer 
+ 14:09:22 - New_Player <img=ico_spear> Polish Cavalryman 
+ 14:09:28 - Polish Cavalryman <img=ico_headshot> New_Player 
+ 14:09:31 - New_Player got 5 gold this round 
+ 14:09:31 - New_Player did add kills, deaths and 43 experience this round 
+ 14:10:06 - New_Player <img=ico_spear> Polish Infantryman 
+ 14:10:09 - New_Player <img=ico_spear> Polish Infantryman 
+ 14:10:11 - New_Player <img=ico_spear> Polish Infantryman 
+ 14:10:24 - New_Player <img=ico_spear> Polish Musketeer 
+ 14:10:37 - New_Player <img=ico_spear> Polish Cavalryman 
+ 14:10:40 - New_Player got 7 gold this round 
+ 14:10:40 - New_Player did add kills, deaths and 60 experience this round 
+ 14:11:08 - New_Player <img=ico_spear> Polish Infantryman 
+ 14:11:16 - New_Player <img=ico_spear> Polish Infantryman 
+ 14:11:30 - New_Player <img=ico_spear> Polish Musketeer 
+ 14:12:14 - New_Player <img=ico_spear> Polish Cavalryman 
+ 14:12:24 - New_Player <img=ico_spear> Polish Cavalryman 
+ 14:12:27 - New_Player got 8 gold this round 
+ 14:12:27 - New_Player did add kills, deaths and 68 experience this round 
+ 14:13:07 - New_Player <img=ico_spear> Polish Musketeer 
+ 14:13:08 - New_Player <img=ico_spear> Polish Musketeer 
+ 14:13:33 - New_Player <img=ico_spear> Polish Musketeer 
+ 14:15:24 - New_Player <img=ico_spear> Polish Cavalryman 
+ 14:15:33 -  <img=ico_headshot> New_Player 
+ 14:15:36 - New_Player got 7 gold this round 
+ 14:15:36 - New_Player did add kills, deaths and 60 experience this round 
+ 14:16:18 - New_Player <img=ico_spear> Polish Infantryman 
+ 14:16:20 - New_Player <img=ico_spear> Polish Infantryman 
+ 14:16:31 - New_Player <img=ico_spear> Polish Cavalryman 
+ 14:16:33 - New_Player <img=ico_spear> Polish Infantryman 
+ 14:16:47 - Polish Cavalryman <img=ico_crossbow> New_Player 
+ 14:16:50 - New_Player got 5 gold this round 
+ 14:16:50 - New_Player did add kills, deaths and 43 experience this round 
+ 14:25:41 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 14:26:40 - New_Player has joined the game with ID: 982368 
+ 14:26:45 - New_Player did join the server & his data was loaded 
+ 14:27:38 - New_Player <img=ico_spear> Tatar Horseman 
+ 14:27:55 - New_Player <img=ico_spear> Tatar Horseman 
+ 14:28:04 - New_Player <img=ico_spear> Tatar Infantryman 
+ 14:28:12 - New_Player <img=ico_spear> Tatar Infantryman 
+ 14:29:34 - Tatar Horse Rifleman <img=ico_bow> New_Player 
+ 14:29:43 - New_Player has joined the game with ID: 982368 
+ 14:29:48 - New_Player did join the server & his data was loaded 
+ 14:30:26 -  <img=ico_headshot> New_Player 
+ 14:30:35 - New_Player has joined the game with ID: 982368 and has administrator rights. 
+ 14:30:39 - New_Player did join the server & his data was loaded 
+ 14:30:59 - New_Player did join the server & his data was loaded 
+ 14:31:37 - New_Player <img=ico_spear> Swedish Cavalryman 
+ 14:32:02 - Swedish Musketeer <img=ico_headshot> New_Player 
+ 14:32:05 - New_Player got 2 gold this round 
+ 14:32:05 - New_Player did add kills, deaths and 17 experience this round 
+ 14:32:59 - New_Player <img=ico_spear> Swedish Infantryman 
+ 14:33:12 - New_Player <img=ico_spear> Swedish Musketeer 
+ 14:33:18 - Swedish Infantryman <img=ico_spear> New_Player 
+ 14:33:21 - New_Player got 3 gold this round 
+ 14:33:22 - New_Player did add kills, deaths and 26 experience this round 
+ 14:33:23 - New_Player started a poll to change bot counts to 15 and 0. 
+ 14:33:59 - Swedish Musketeer <img=ico_headshot> New_Player 
+ 14:34:02 - New_Player got 1 gold this round 
+ 14:34:02 - New_Player did add kills, deaths and 9 experience this round 
+ 14:34:41 - New_Player <img=ico_spear> Swedish Infantryman 
+ 14:35:05 - New_Player <img=ico_spear> Swedish Infantryman 
+ 14:35:06 - Swedish Musketeer <img=ico_crossbow> New_Player 
+ 14:35:09 - New_Player got 3 gold this round 
+ 14:35:09 - New_Player did add kills, deaths and 26 experience this round 
+ 14:35:26 - New_Player did join the server & his data was loaded 
+ 14:36:17 - New_Player <img=ico_spear> Swedish Infantryman 
+ 14:36:23 - New_Player <img=ico_spear> Swedish Infantryman 
+ 14:36:30 - Swedish Cavalryman <img=ico_crossbow> New_Player 
+ 14:36:33 - New_Player got 3 gold this round 
+ 14:36:33 - New_Player did add kills, deaths and 26 experience this round 
+ 14:37:14 - New_Player <img=ico_spear> Swedish Infantryman 
+ 14:37:16 - New_Player <img=ico_spear> Swedish Musketeer 
+ 14:37:19 - New_Player <img=ico_spear> Swedish Musketeer 
+ 14:37:27 - New_Player <img=ico_spear> Swedish Musketeer 
+ 14:37:31 - New_Player <img=ico_spear> Swedish Musketeer 
+ 14:37:34 - New_Player <img=ico_spear> Swedish Cavalryman 
+ 14:37:58 - New_Player <img=ico_spear> Swedish Cavalryman 
+ 14:38:00 - New_Player <img=ico_spear> Swedish Cavalryman 
+ 14:38:32 - New_Player <img=ico_spear> Swedish Cavalryman 
+ 14:39:22 -  <img=ico_headshot> New_Player 
+ 14:39:29 - New_Player has joined the game with ID: 982368 
+ 14:39:34 - New_Player did join the server & his data was loaded 
+ 14:40:35 - Swedish Musketeer <img=ico_crossbow> New_Player 
+ 14:40:38 - New_Player got 1 gold this round 
+ 14:40:38 - New_Player did add kills, deaths and 9 experience this round 
+ 14:41:34 - Swedish Cavalryman <img=ico_couchedlance> New_Player 
+ 14:41:37 - New_Player got 1 gold this round 
+ 14:41:37 - New_Player did add kills, deaths and 9 experience this round 
+ 14:42:52 - New_Player <img=ico_swordone> Swedish Infantryman 
+ 14:43:01 - New_Player <img=ico_swordone> Swedish Musketeer 
+ 14:43:13 - Swedish Musketeer <img=ico_crossbow> New_Player 
+ 14:43:16 - New_Player got 3 gold this round 
+ 14:43:16 - New_Player did add kills, deaths and 26 experience this round 
+ 14:44:42 - Swedish Infantryman <img=ico_spear> New_Player 
+ 14:44:45 - New_Player got 1 gold this round 
+ 14:44:45 - New_Player did add kills, deaths and 9 experience this round 
+ 14:45:45 - Swedish Cavalryman <img=ico_swordone> New_Player 
+ 14:45:48 - New_Player got 1 gold this round 
+ 14:45:48 - New_Player did add kills, deaths and 9 experience this round 
+ 14:47:39 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 14:48:09 - New_Player has joined the game with ID: 982368 
+ 14:48:14 - New_Player did join the server & his data was loaded 
+ 14:49:20 - New_Player <img=ico_swordone> Swedish Musketeer 
+ 14:49:29 - New_Player <img=ico_swordone> Swedish Musketeer 
+ 14:49:39 - New_Player <img=ico_swordone> Swedish Musketeer 
+ 14:49:48 - New_Player <img=ico_swordone> Swedish Musketeer 
+ 14:50:15 - New_Player <img=ico_swordone> Swedish Infantryman 
+ 14:50:18 - New_Player got 7 gold this round 
+ 14:50:18 - New_Player did add kills, deaths and 60 experience this round 
+ 14:52:04 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 14:53:41 - New_Player has joined the game with ID: 982368 
+ 14:53:46 - New_Player did join the server & his data was loaded 
+ 14:54:38 - Tatar Horseman <img=ico_couchedlance> New_Player 
+ 14:54:41 - New_Player got 1 gold this round 
+ 14:54:41 - New_Player did add kills, deaths and 9 experience this round 
+ 14:55:09 -  <img=ico_headshot> New_Player 
+ 14:55:31 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 14:56:03 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 14:56:16 - New_Player has joined the game with ID: 982368 
+ 14:56:20 - New_Player did join the server & his data was loaded 
+ 14:58:00 - New_Player <img=ico_swordtwo> Tatar Horseman 
+ 14:58:07 - New_Player <img=ico_swordtwo> Tatar Infantryman 
+ 14:58:18 - New_Player <img=ico_swordtwo> Tatar Infantryman 
+ 14:58:28 - New_Player <img=ico_swordtwo> Tatar Horseman 
+ 14:59:05 -  <img=ico_headshot> New_Player 
+ 15:12:01 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 15:12:18 - New_Player has joined the game with ID: 982368 
+ 15:12:22 - New_Player did join the server & his data was loaded 
+ 15:13:04 -  <img=ico_headshot> New_Player 
+ 15:13:14 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 15:14:09 - New_Player has joined the game with ID: 982368 
+ 15:14:14 - New_Player did join the server & his data was loaded 
+ 15:15:25 -  <img=ico_headshot> New_Player 
+ 15:15:40 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 15:16:09 - New_Player has joined the game with ID: 982368 
+ 15:16:14 - New_Player did join the server & his data was loaded 
+ 15:16:35 -  <img=ico_headshot> New_Player 
+ 15:16:38 - New_Player got 1 gold this round 
+ 15:16:38 - New_Player did add kills, deaths and 9 experience this round 
+ 15:16:59 -  <img=ico_headshot> New_Player 
+ 15:24:06 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 15:25:01 - New_Player has joined the game with ID: 982368 
+ 15:25:06 - New_Player did join the server & his data was loaded 
+ 15:27:32 - Russian Infantryman <img=ico_spear> New_Player 
+ 15:27:35 - New_Player got 1 gold this round 
+ 15:27:35 - New_Player did add kills, deaths and 9 experience this round 
+ 15:29:11 - Russian Rifleman <img=ico_axetwo> New_Player 
+ 15:29:14 - New_Player got 1 gold this round 
+ 15:29:14 - New_Player did add kills, deaths and 9 experience this round 
+ 15:30:36 - Russian Infantryman <img=ico_spear> New_Player 
+ 15:30:39 - New_Player got 1 gold this round 
+ 15:30:39 - New_Player did add kills, deaths and 9 experience this round 
+ 15:32:22 - Russian Infantryman <img=ico_spear> New_Player 
+ 15:32:25 - New_Player got 1 gold this round 
+ 15:32:25 - New_Player did add kills, deaths and 9 experience this round 
+ 15:33:48 - Russian Infantryman <img=ico_spear> New_Player 
+ 15:33:51 - New_Player got 1 gold this round 
+ 15:33:51 - New_Player did add kills, deaths and 9 experience this round 
+ 15:34:13 -  <img=ico_headshot> New_Player 
+ 15:34:25 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 15:34:48 - New_Player has joined the game with ID: 982368 
+ 15:34:53 - New_Player did join the server & his data was loaded 
+ 15:37:17 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 15:37:51 - New_Player has joined the game with ID: 982368 
+ 15:37:56 - New_Player did join the server & his data was loaded 
+ 15:38:57 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 15:39:36 - New_Player has joined the game with ID: 982368 
+ 15:39:41 - New_Player did join the server & his data was loaded 
+ 15:41:50 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 15:42:19 - New_Player has joined the game with ID: 982368 
+ 15:42:23 - New_Player did join the server & his data was loaded 
+ 15:43:39 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 15:44:02 - New_Player has joined the game with ID: 982368 
+ 15:44:07 - New_Player did join the server & his data was loaded 
+ 15:45:38 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 15:46:08 - New_Player has joined the game with ID: 982368 
+ 15:46:13 - New_Player did join the server & his data was loaded 
+ 15:47:52 - Swedish Cavalryman <img=ico_couchedlance> New_Player 
+ 15:47:55 - New_Player got 1 gold this round 
+ 15:47:55 - New_Player did add kills, deaths and 9 experience this round 
+ 15:48:37 -  <img=ico_headshot> New_Player 
+ 15:48:49 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 15:49:12 - New_Player has joined the game with ID: 982368 
+ 15:49:17 - New_Player did join the server & his data was loaded 
+ 15:49:22 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 15:49:28 - New_Player has joined the game with ID: 982368 
+ 15:49:33 - New_Player did join the server & his data was loaded 
+ 15:50:20 -  <img=ico_headshot> New_Player 
+ 15:50:35 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 15:51:02 - New_Player has joined the game with ID: 982368 
+ 15:51:07 - New_Player did join the server & his data was loaded 
+ 15:54:03 - Russian Rifleman <img=ico_headshot> New_Player 
+ 15:54:06 - New_Player got 1 gold this round 
+ 15:54:06 - New_Player did add kills, deaths and 9 experience this round 
+ 15:55:42 - Russian Rifleman <img=ico_crossbow> New_Player 
+ 15:55:45 - New_Player got 1 gold this round 
+ 15:55:45 - New_Player did add kills, deaths and 9 experience this round 
+ 15:57:30 - Russian Infantryman <img=ico_spear> New_Player 
+ 15:57:33 - New_Player got 1 gold this round 
+ 15:57:33 - New_Player did add kills, deaths and 9 experience this round 
+ 15:59:24 - Russian Infantryman <img=ico_spear> New_Player 
+ 15:59:27 - New_Player got 1 gold this round 
+ 15:59:27 - New_Player did add kills, deaths and 9 experience this round 
+ 16:00:52 - Russian Rifleman <img=ico_headshot> New_Player 
+ 16:00:55 - New_Player got 1 gold this round 
+ 16:00:55 - New_Player did add kills, deaths and 9 experience this round 
+ 16:02:58 - Russian Infantryman <img=ico_spear> New_Player 
+ 16:03:01 - New_Player got 1 gold this round 
+ 16:03:01 - New_Player did add kills, deaths and 9 experience this round 
+ 16:03:04 -  <img=ico_headshot> New_Player 
+ 16:03:29 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 16:04:45 - New_Player has joined the game with ID: 982368 
+ 16:04:49 - New_Player did join the server & his data was loaded 
+ 16:06:20 - Polish Cavalryman <img=ico_blunt> New_Player 
+ 16:06:23 - New_Player got 1 gold this round 
+ 16:06:23 - New_Player did add kills, deaths and 9 experience this round 
+ 16:07:57 - Polish Infantryman <img=ico_spear> New_Player 
+ 16:08:00 - New_Player got 1 gold this round 
+ 16:08:00 - New_Player did add kills, deaths and 9 experience this round 
+ 16:08:36 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 16:09:10 - New_Player has joined the game with ID: 982368 
+ 16:09:15 - New_Player did join the server & his data was loaded 
+ 16:10:55 - Russian Infantryman <img=ico_spear> New_Player 
+ 16:10:58 - New_Player got 1 gold this round 
+ 16:10:58 - New_Player did add kills, deaths and 9 experience this round 
+ 16:12:25 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 16:12:45 - New_Player has joined the game with ID: 982368 
+ 16:12:49 - New_Player did join the server & his data was loaded 
+ 16:13:39 - Tatar Horseman <img=ico_couchedlance> New_Player 
+ 16:13:42 - New_Player got 1 gold this round 
+ 16:13:42 - New_Player did add kills, deaths and 9 experience this round 
+ 16:14:33 -  <img=ico_headshot> New_Player 
+ 16:14:49 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 16:15:04 - New_Player has joined the game with ID: 982368 
+ 16:15:09 - New_Player did join the server & his data was loaded 
+ 16:16:55 - Tatar Infantryman <img=ico_headshot> New_Player 
+ 16:16:58 - New_Player got 1 gold this round 
+ 16:16:58 - New_Player did add kills, deaths and 9 experience this round 
+ 16:17:25 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 16:18:03 - New_Player has joined the game with ID: 982368 
+ 16:18:07 - New_Player did join the server & his data was loaded 
+ 16:19:25 - New_Player <img=ico_spear> Tatar Horseman 
+ 16:19:28 -  <img=ico_headshot> New_Player 
+ 16:21:08 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 16:21:26 - New_Player has joined the game with ID: 982368 
+ 16:21:31 - New_Player did join the server & his data was loaded 
+ 16:21:39 -  <img=ico_headshot> New_Player 
+ 16:26:45 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 16:27:03 - New_Player has joined the game with ID: 982368 
+ 16:27:08 - New_Player did join the server & his data was loaded 
+ 16:27:19 -  <img=ico_headshot> New_Player 
+ 16:29:53 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 16:30:20 - New_Player has joined the game with ID: 982368 
+ 16:30:25 - New_Player did join the server & his data was loaded 
+ 16:30:53 -  <img=ico_headshot> New_Player 
+ 16:32:58 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 16:33:24 - New_Player has joined the game with ID: 982368 
+ 16:33:29 - New_Player did join the server & his data was loaded 
+ 16:34:48 - Russian Rifleman <img=ico_headshot> New_Player 
+ 16:34:52 - New_Player got 1 gold this round 
+ 16:34:52 - New_Player did add kills, deaths and 9 experience this round 
+ 16:35:52 -  <img=ico_headshot> New_Player 
+ 16:36:09 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 16:36:58 - New_Player has joined the game with ID: 982368 
+ 16:37:03 - New_Player did join the server & his data was loaded 
+ 16:37:33 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 16:37:58 - New_Player has joined the game with ID: 982368 
+ 16:38:03 - New_Player did join the server & his data was loaded 
+ 16:39:23 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 16:40:59 - New_Player has joined the game with ID: 982368 
+ 16:41:04 - New_Player did join the server & his data was loaded 
+ 16:41:32 -  <img=ico_headshot> New_Player 
+ 16:42:16 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 16:42:39 - New_Player has joined the game with ID: 982368 
+ 16:42:44 - New_Player did join the server & his data was loaded 
+ 16:42:52 -  <img=ico_headshot> New_Player 
+ 17:21:53 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 17:22:07 - New_Player has joined the game with ID: 982368 
+ 17:22:07 - New_Player has joined the game with ID: 982368 
+ 17:22:07 - New_Player has joined the game with ID: 982368 
+ 17:22:07 - New_Player has joined the game with ID: 982368 
+ 17:22:07 - New_Player has joined the game with ID: 982368 
+ 17:22:07 - New_Player has joined the game with ID: 982368 
+ 17:22:07 - New_Player has joined the game with ID: 982368 
+ 17:22:07 - New_Player has joined the game with ID: 982368 
+ 17:22:08 - New_Player has joined the game with ID: 982368 
+ 17:22:08 - New_Player has joined the game with ID: 982368 
+ 17:22:08 - New_Player has joined the game with ID: 982368 
+ 17:22:08 - New_Player has joined the game with ID: 982368 
+ 17:22:08 - New_Player has joined the game with ID: 982368 
+ 17:22:08 - New_Player has joined the game with ID: 982368 
+ 17:22:08 - New_Player has joined the game with ID: 982368 
+ 17:22:08 - New_Player has joined the game with ID: 982368 
+ 17:22:08 - New_Player has joined the game with ID: 982368 
+ 17:22:08 - New_Player has joined the game with ID: 982368 
+ 17:22:08 - New_Player has joined the game with ID: 982368 
+ 17:22:12 - New_Player has joined the game with ID: 982368 
+ 17:22:16 - New_Player did join the server & his data was loaded 
+ 17:24:20 - Polish Infantryman <img=ico_spear> New_Player 
+ 17:24:23 - New_Player got 1 gold this round 
+ 17:24:23 - New_Player did add kills, deaths and 9 experience this round 
+ 17:26:32 - Polish Infantryman <img=ico_spear> New_Player 
+ 17:26:35 - New_Player got 1 gold this round 
+ 17:26:35 - New_Player did add kills, deaths and 9 experience this round 
+ 17:26:54 -  <img=ico_headshot> New_Player 
+ 17:27:06 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 17:27:28 - New_Player has joined the game with ID: 982368 
+ 17:27:32 - New_Player did join the server & his data was loaded 
+ 17:28:37 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 17:28:45 - New_Player has joined the game with ID: 982368 
+ 17:28:50 - New_Player did join the server & his data was loaded 
+ 17:30:03 -  <img=ico_headshot> New_Player 
+ 17:30:24 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 17:30:52 - New_Player has joined the game with ID: 982368 
+ 17:30:56 - New_Player did join the server & his data was loaded 
+ 17:31:38 -  <img=ico_headshot> New_Player 
+ 17:32:13 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 17:32:36 - New_Player has joined the game with ID: 982368 
+ 17:32:40 - New_Player did join the server & his data was loaded 
+ 17:34:12 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 17:34:30 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 17:34:49 - New_Player has joined the game with ID: 982368 
+ 17:34:54 - New_Player did join the server & his data was loaded 
+ 17:36:32 - Swedish Musketeer <img=ico_crossbow> New_Player 
+ 17:36:35 - New_Player got 1 gold this round 
+ 17:36:35 - New_Player did add kills, deaths and 9 experience this round 
+ 17:36:55 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 17:37:17 - New_Player has joined the game with ID: 982368 
+ 17:37:22 - New_Player did join the server & his data was loaded 
+ 17:38:05 - Russian Infantryman <img=ico_spear> New_Player 
+ 17:39:11 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 17:40:27 - New_Player has joined the game with ID: 982368 
+ 17:40:32 - New_Player did join the server & his data was loaded 
+ 17:41:58 - Swedish Musketeer <img=ico_crossbow> New_Player 
+ 17:42:01 - New_Player got 1 gold this round 
+ 17:42:01 - New_Player did add kills, deaths and 9 experience this round 
+ 17:43:39 - Swedish Musketeer <img=ico_headshot> New_Player 
+ 17:43:42 - New_Player got 1 gold this round 
+ 17:43:42 - New_Player did add kills, deaths and 9 experience this round 
+ 17:45:00 - Swedish Infantryman <img=ico_spear> New_Player 
+ 17:45:03 - New_Player got 1 gold this round 
+ 17:45:03 - New_Player did add kills, deaths and 9 experience this round 
+ 17:46:42 - Swedish Musketeer <img=ico_headshot> New_Player 
+ 17:46:45 - New_Player got 1 gold this round 
+ 17:46:45 - New_Player did add kills, deaths and 9 experience this round 
+ 17:47:29 -  <img=ico_headshot> New_Player 
+ 17:47:40 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 17:48:04 - New_Player has joined the game with ID: 982368 
+ 17:48:09 - New_Player did join the server & his data was loaded 
+ 17:52:15 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 17:52:38 - New_Player has joined the game with ID: 982368 
+ 17:52:43 - New_Player did join the server & his data was loaded 
+ 17:55:01 - Swedish Cavalryman <img=ico_swordone> New_Player 
+ 17:55:04 - New_Player got 1 gold this round 
+ 17:55:04 - New_Player did add kills, deaths and 9 experience this round 
+ 17:57:03 - Swedish Musketeer <img=ico_crossbow> New_Player 
+ 17:57:06 - New_Player got 1 gold this round 
+ 17:57:06 - New_Player did add kills, deaths and 9 experience this round 
+ 17:58:49 - Swedish Musketeer <img=ico_crossbow> New_Player 
+ 17:58:52 - New_Player got 1 gold this round 
+ 17:58:52 - New_Player did add kills, deaths and 9 experience this round 
+ 17:58:54 -  <img=ico_headshot> New_Player 
+ 17:59:12 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 17:59:34 - New_Player has joined the game with ID: 982368 
+ 17:59:39 - New_Player did join the server & his data was loaded 
+ 18:00:24 - New_Player <img=ico_swordone> Tatar Horseman 
+ 18:00:45 - Tatar Horseman <img=ico_couchedlance> New_Player 
+ 18:00:48 - New_Player got 2 gold this round 
+ 18:00:48 - New_Player did add kills, deaths and 17 experience this round 
+ 18:03:03 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 18:03:28 - New_Player has joined the game with ID: 982368 
+ 18:03:33 - New_Player did join the server & his data was loaded 
+ 18:04:24 - Tatar Horseman <img=ico_spear> New_Player 
+ 18:04:27 - New_Player got 1 gold this round 
+ 18:04:27 - New_Player did add kills, deaths and 9 experience this round 
+ 18:05:28 - New_Player <img=ico_swordone> Tatar Infantryman 
+ 18:05:31 - Tatar Infantryman <img=ico_headshot> New_Player 
+ 18:05:34 - New_Player got 2 gold this round 
+ 18:05:34 - New_Player did add kills, deaths and 17 experience this round 
+ 18:06:02 - Tatar Horseman <img=ico_couchedlance> New_Player 
+ 18:06:05 - New_Player got 1 gold this round 
+ 18:06:05 - New_Player did add kills, deaths and 9 experience this round 
+ 18:06:31 - New_Player started a poll to change map to Fields. 
+ 18:06:47 - New_Player did join the server & his data was loaded 
+ 18:06:54 - New_Player started a poll to change map to Trenches. 
+ 18:08:08 - New_Player did join the server & his data was loaded 
+ 18:08:26 - New_Player started a poll to change map to Old castle and factions to Polish Commonwealth and Muscovite Tsardom. 
+ 18:08:42 - New_Player did join the server & his data was loaded 
+ 18:10:00 - New_Player <img=ico_swordone> Polish Cavalryman 
+ 18:10:12 - Polish Cavalryman <img=ico_blunt> New_Player 
+ 18:10:15 - New_Player got 3 gold this round 
+ 18:10:15 - New_Player did add kills, deaths and 26 experience this round 
+ 18:10:54 - New_Player has joined the game with ID: 982368 
+ 18:10:59 - New_Player did join the server & his data was loaded 
+ 18:12:37 - New_Player <img=ico_swordone> Polish Infantryman 
+ 18:12:47 - New_Player <img=ico_swordone> Polish Infantryman 
+ 18:13:42 - New_Player <img=ico_swordone> Polish Cavalryman 
+ 18:14:11 -  <img=ico_headshot> New_Player 
+ 

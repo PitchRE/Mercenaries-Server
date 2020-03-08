@@ -67,8 +67,8 @@ set_force_default_armor 0
 set_ban_voteable 0
 set_kick_voteable 0
 set_maps_voteable 1
-set_factions_voteable 0
-set_num_bots_voteable 0
+set_factions_voteable 50
+set_num_bots_voteable 50
 
 # SET VALID VOTE RATIO [OPTIONS: 0 to 100]
 set_valid_vote_ratio 60
@@ -125,8 +125,7 @@ add_factions fac_kingdom_1 fac_kingdom_1
 add_factions fac_kingdom_2 fac_kingdom_2
 add_factions fac_kingdom_3 fac_kingdom_3
 add_factions fac_kingdom_4 fac_kingdom_4
-add_factions fac_kingdom_5 fac_kingdom_5
-add_factions fac_kingdom_6 fac_kingdom_6
+
  
 # DEFAULT HOST SETTINGS
 set_upload_limit 9999999

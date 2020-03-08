@@ -141,4 +141,106 @@
  15:55:01 - SERVER has joined the game with ID: 0 and has administrator rights. 
  15:55:45 - SERVER has joined the game with ID: 0 and has administrator rights. 
  15:56:01 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 18:01:33 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 18:01:42 - New_Player has joined the game with ID: 982368 
+ 18:01:47 - New_Player did join the server & his data was loaded 
+ 18:01:50 - New_Player started a poll to change map to Old castle. 
+ 18:02:06 - New_Player did join the server & his data was loaded 
+ 18:08:39 - New_Player has joined the game with ID: 982368 
+ 18:08:45 - New_Player did join the server & his data was loaded 
+ 18:09:37 - New_Player has joined the game with ID: 982368 
+ 18:09:42 - New_Player did join the server & his data was loaded 
+ 18:09:55 -  <img=ico_headshot> New_Player 
+ 18:12:29 - New_Player has joined the game with ID: 982368 
+ 18:12:34 - New_Player did join the server & his data was loaded 
+ 18:14:15 - New_Player has joined the game with ID: 982368 
+ 18:14:21 - New_Player did join the server & his data was loaded 
+ 18:15:46 - New_Player has joined the game with ID: 982368 
+ 18:15:52 - New_Player did join the server & his data was loaded 
+ 18:16:50 - Swedish Cavalryman <img=ico_couchedlance> New_Player 
+ 18:16:53 - New_Player got 1 gold this round 
+ 18:17:00 -  <img=ico_headshot> New_Player 
+ 18:20:26 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 18:21:07 - New_Player has joined the game with ID: 982368 
+ 18:21:12 - New_Player did join the server & his data was loaded 
+ 18:21:21 - New_Player started a poll to change map to Barracks. 
+ 18:21:35 - New_Player did join the server & his data was loaded 
+ 18:23:19 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 18:23:47 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 18:24:15 - New_Player has joined the game with ID: 982368 
+ 18:24:20 - New_Player did join the server & his data was loaded 
+ 18:25:07 - New_Player has joined the game with ID: 982368 
+ 18:25:12 - New_Player did join the server & his data was loaded 
+ 18:25:15 - New_Player started a poll to change map to All Fire Now!. 
+ 18:25:31 - New_Player did join the server & his data was loaded 
+ 18:25:40 -  <img=ico_headshot> New_Player 
+ 19:37:38 - New_Player has joined the game with ID: 982368 
+ 19:37:42 - New_Player did join the server & his data was loaded 
+ 19:37:46 - New_Player started a poll to change map to Old castle. 
+ 21:30:57 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 21:31:27 - New_Player has joined the game with ID: 982368 
+ 21:31:32 - New_Player did join the server & his data was loaded 
+ 21:31:37 - New_Player started a poll to change map to Very Loose. 
+ 21:31:53 - New_Player did join the server & his data was loaded 
+ 21:32:03 -  <img=ico_headshot> New_Player 
+ 21:33:40 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 21:33:47 - New_Player has joined the game with ID: 982368 
+ 21:33:52 - New_Player did join the server & his data was loaded 
+ 21:33:55 - New_Player started a poll to change map to Very Loose. 
+ 21:34:11 - New_Player did join the server & his data was loaded 
+ 21:34:24 -  <img=ico_headshot> New_Player 
+ 21:35:28 - New_Player has joined the game with ID: 982368 
+ 21:35:33 - New_Player did join the server & his data was loaded 
+ 21:35:43 -  <img=ico_headshot> New_Player 
+ 21:38:30 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 21:38:41 - New_Player has joined the game with ID: 982368 
+ 21:38:46 - New_Player did join the server & his data was loaded 
+ 21:38:49 - New_Player started a poll to change map to Very Loose. 
+ 21:39:06 - New_Player did join the server & his data was loaded 
+ 21:39:47 -  <img=ico_headshot> New_Player 
+ 21:40:04 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 21:40:21 - New_Player has joined the game with ID: 982368 
+ 21:40:26 - New_Player did join the server & his data was loaded 
+ 21:40:40 - New_Player started a poll to change map to multi scene end. 
+ 21:40:56 - New_Player did join the server & his data was loaded 
+ 21:42:23 - Swedish Musketeer <img=ico_crossbow> New_Player 
+ 21:42:26 - New_Player got 1 gold this round 
+ 21:43:10 - Swedish Cavalryman <img=ico_crossbow> New_Player 
+ 21:43:13 - New_Player got 2 gold this round 
+ 21:43:32 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 21:44:40 - New_Player has joined the game with ID: 982368 
+ 21:44:45 - New_Player did join the server & his data was loaded 
+ 21:44:51 - New_Player started a poll to change map to Deathmatch. 
+ 21:45:08 - New_Player did join the server & his data was loaded 
+ 21:45:10 - New_Player started a poll to change map to Vyborg. 
+ 21:45:28 - New_Player did join the server & his data was loaded 
+ 21:45:31 -  <img=ico_headshot> New_Player 
+ 21:48:26 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 21:48:46 - New_Player has joined the game with ID: 982368 
+ 21:48:51 - New_Player did join the server & his data was loaded 
+ 21:48:56 - New_Player started a poll to change map to Deathmatch. 
+ 21:49:12 - New_Player did join the server & his data was loaded 
+ 21:50:25 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 21:50:45 - New_Player has joined the game with ID: 982368 
+ 21:50:50 - New_Player did join the server & his data was loaded 
+ 21:50:52 - New_Player started a poll to change map to multi scene end. 
+ 21:51:09 - New_Player did join the server & his data was loaded 
+ 22:01:26 - New_Player has joined the game with ID: 982368 
+ 22:01:32 - New_Player did join the server & his data was loaded 
+ 22:05:22 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 22:05:28 - New_Player has joined the game with ID: 982368 
+ 22:05:33 - New_Player did join the server & his data was loaded 
+ 22:05:40 - New_Player started a poll to change map to A new order has come from  -- capture . This city is very important to Radziwill, regardless of who controls it now.. 
+ 22:06:04 - New_Player has joined the game with ID: 982368 
+ 22:06:09 - New_Player did join the server & his data was loaded 
+ 22:06:17 - New_Player started a poll to change map to A new order has come from  -- capture . This city is very important to Radziwill, regardless of who controls it now.. 
+ 22:33:26 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 22:33:46 - New_Player has joined the game with ID: 982368 
+ 22:33:51 - New_Player did join the server & his data was loaded 
+ 22:33:56 - New_Player started a poll to change map to Noc. 
+ 22:34:11 - New_Player did join the server & his data was loaded 
+ 22:35:57 - SERVER has joined the game with ID: 0 and has administrator rights. 
+ 22:36:23 - New_Player has joined the game with ID: 982368 
+ 22:36:28 - New_Player did join the server & his data was loaded 
+ 22:36:30 - New_Player started a poll to change map to Noc. 
  
