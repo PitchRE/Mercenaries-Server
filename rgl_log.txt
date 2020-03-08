@@ -466,4 +466,31 @@ Starting new log file.
   [1] 
  http://127.0.0.1/GiveEarnings?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=4&gold=1
  http://127.0.0.1/GiveEXP?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=4&exp=1&kills=0&deaths=0
+ http://127.0.0.1/checkplayer?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=3
+ Hello 982368
+ DEBUG: Did give player 3 following troop: 1414
+ http://127.0.0.1/checkplayer?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=3
+ Hello 982368
+ DEBUG: Did give player 3 following troop: 1414
+ http://127.0.0.1/checkplayer?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=3
+ Hello 982368
+ DEBUG: Did give player 3 following troop: 1414
+ http://127.0.0.1/checkplayer?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=3
+ Hello 982368
+ DEBUG: Did give player 3 following troop: 1414
+ http://127.0.0.1/checkplayer?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=3
+ Hello 982368
+ DEBUG: Did give player 3 following troop: 1414
+ DEBUG: Give player 3 item 1036
+ DEBUG: Give player 3 item 1052
+ DEBUG: Give player 3 item 1018
+ DEBUG: Give player 3 item 1033
+ DEBUG: Give player 3 item 952
+ DEBUG: Give player 3 item 969
+ DEBUG: Give player 3 item 929
+ DEBUG: Give player 3 item 983
+ DEBUG: Give player 3 item 680
+ http://127.0.0.1/checkplayer?sid=1&spa=zitrone&name=New%5FPlayer&guid=982368&pid=3
+ Hello 982368
+ DEBUG: Did give player 3 following troop: 1414
  

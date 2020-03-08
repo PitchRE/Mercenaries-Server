@@ -941,4 +941,16 @@
  18:12:47 - New_Player <img=ico_swordone> Polish Infantryman 
  18:13:42 - New_Player <img=ico_swordone> Polish Cavalryman 
  18:14:11 -  <img=ico_headshot> New_Player 
+ 18:20:15 - New_Player has joined the game with ID: 982368 
+ 18:20:20 - New_Player did join the server & his data was loaded 
+ 18:20:22 - New_Player started a poll to change map to Forest skirt. 
+ 18:20:37 - New_Player did join the server & his data was loaded 
+ 18:20:56 - New_Player started a poll to change map to Fields. 
+ 18:21:12 - New_Player did join the server & his data was loaded 
+ 18:21:44 - New_Player started a poll to change map to Road in the forest. 
+ 18:21:59 - New_Player did join the server & his data was loaded 
+ 18:22:04 - New_Player started a poll to change map to Hill road. 
+ 18:22:19 - New_Player did join the server & his data was loaded 
+ 18:23:03 - New_Player started a poll to change map to Fortified town. 
+ 18:23:19 - New_Player did join the server & his data was loaded 
  
